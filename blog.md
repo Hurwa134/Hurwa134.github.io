@@ -58,7 +58,7 @@ We found a unique location near the dog park which features a cement ping-pong t
 
 ![img](img/PD14.jpg)
 
-![img](img/PD12.jpg)
+![img](img/MappingData.jpg)
 
 We decided that the ping-pong table provided a good opportunity for interaction with park visitors. We went through a series of different ideas of how to repurpose or utilize the intended function of the table. We started off with the idea of covering the surface of the table with canvas or paper and painting it with bright colors to look like the solar system. We thought that using glow in the dark paint to paint the milky way and solar system would be interesting, and we floated the idea of using different sized ping-pong balls to represent different planets. We also talked about putting lights in the balls and making them light up. 
 
