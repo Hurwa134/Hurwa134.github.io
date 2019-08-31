@@ -60,8 +60,11 @@ We found a unique location near the dog park which features a cement ping-pong t
 
 ![img](img/MapMapMap.jpeg)
 
+### Deciding on Our Goal
 
 We decided that the ping-pong table provided a good opportunity for interaction with park visitors. We went through a series of different ideas of how to repurpose or utilize the intended function of the table. We started off with the idea of covering the surface of the table with canvas or paper and painting it with bright colors to look like the solar system. We thought that using glow in the dark paint to paint the milky way and solar system would be interesting, and we floated the idea of using different sized ping-pong balls to represent different planets. We also talked about putting lights in the balls and making them light up. 
+
+### Changing the Function of an Existing Form
 
 We then discussed turning the ping-pong table into a canvas, and giving players the opportunity to dip the ping-pong balls in paint so that when they play the game, they are creating paint strokes. We decided that this would get unruly and hard to manage, especially with the potential of kids being involved so we decided to do something less messy.
 
