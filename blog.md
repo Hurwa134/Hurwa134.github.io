@@ -26,9 +26,13 @@ Dedicated in 1906, the Slocum Memorial Fountain in Tompkins Square Park is a tri
 
 ## Guiding Questions
 
-### What is the definition of a stranger? We are defining "stranger" as a person in the park for this project.
+### What is the definition of a stranger? 
 
-How do strangers communicate? Speaking, laughing, discussing, touching, gesturing, moving, making sounds, making expressions.
+We are defining "stranger" as a person in the park for this project.
+
+### How do strangers communicate? 
+
+Speaking, laughing, discussing, touching, gesturing, moving, making sounds, making expressions.
 
 ### What are effective methods for observing and documenting activity and  interaction between people and groups?
 
