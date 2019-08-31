@@ -70,8 +70,6 @@ The idea of using the ping-pong table as a formal dining table is what we landed
 
 ### Beginning Prototype Sketches
 
-![img](img/PD14.jpg)
-
 ![img](img/PD15.jpg)
 
 ### Inspiration Exhibits
