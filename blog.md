@@ -8,7 +8,7 @@ We chose Tompkins Square Park on the Lower East Side as the location for our pro
 
 Built in 1888, the Temperance Fountain was built by The Lower East Side’s Moderation Society (a group formed in the 1870’s to address the health conditions plaguing this dirty, crowded area of NYC.) Prohibition of alcohol was paramount to these reformers. After the Civil War, temperance groups like the Moderation Society constructed public drinking fountains with the belief that providing a free, clean, and readily available alternative to alcohol would prevent alcohol use.
 
-![img](img/PD2.png)
+![img](img/PD2.jpg)
 
 ![img](img/PD3.png)
 
