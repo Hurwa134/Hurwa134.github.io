@@ -68,7 +68,7 @@ We then discussed turning the ping-pong table into a canvas, and giving players 
 
 The idea of using the ping-pong table as a formal dining table is what we landed on. We liked the absurdity of setting a formal dining table, as if at a fine restaurant, in the middle of the park. We hypothesize that people will be drawn to a table-setting, and will want to take pictures/play with the items on the table. It reminded me of Judy Chicago's "The Dinner Party" and the "Cardboard Living Room" by Bill Burminski. We want to make it playful, and will make the items out of cardboard/paper mache, and other items so that it is somewhat "larger than life."
 
-### Beginning Prototype Sketches
+### Beginning Prototype Sketch
 
 ![img](img/PD15.jpg)
 
