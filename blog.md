@@ -2,7 +2,7 @@
 
 ## Research for Tompkins Square Park Location
 
-We chose Tompkins Square Park on the Lower East Side as the location for our project. The park has a rich social history; Since its beginnings in the 19th century, Tompkins Square Park has served as a home for New Yorker’s to voice their political dissent. In 1857 and 1875 residents protested job scarcity and the poor economy. In the 1980’s and 90’s, local residents protested gentrification.
+We chose Tompkins Square Park on the Lower East Side as the location for our project. The park has a rich social history; Since its beginnings in the 19th century, Tompkins Square Park has served as a home for New Yorkers to voice their political dissent. In 1857 and 1875 residents protested job scarcity and the poor economy. In the 1980’s and 90’s, local residents protested gentrification.
 
 ![img](img/PD1.png)
 
@@ -12,11 +12,11 @@ Built in 1888, the Temperance Fountain was built by The Lower East Side’s Mode
 
 ![img](img/PD3.png)
 
-###Harry Greenberg Memorial Tree
+### Harry Greenberg Memorial Tree
 
 ![img](img/PD4.png)
 
-###Slocum Memorial Fountain
+### Slocum Memorial Fountain
 
 Dedicated in 1906, the Slocum Memorial Fountain in Tompkins Square Park is a tribute to those who lost their lives aboard the ship General Slocum on June 15th, 1904. 
 
@@ -24,21 +24,21 @@ Dedicated in 1906, the Slocum Memorial Fountain in Tompkins Square Park is a tri
 
 ![img](img/PD6.png)
 
-##Guiding Questions
+## Guiding Questions
 
-###What is the definition of a stranger? We are defining "stranger" as a person in the park for this project.
+### What is the definition of a stranger? We are defining "stranger" as a person in the park for this project.
 
 How do strangers communicate? Speaking, laughing, discussing, touching, gesturing, moving, making sounds, making expressions.
 
-###What are effective methods for observing and documenting activity and  interaction between people and groups?
+### What are effective methods for observing and documenting activity and  interaction between people and groups?
 
 Observing, writing about what you see, experimenting with prototypes and seeing how people react and interact with different items and prompts. 
 
-###What design and narrative strategies exist to help in the design of non-textual interfaces? In other words, how do you show, and not tell, behavioral prompts?
+### What design and narrative strategies exist to help in the design of non-textual interfaces? In other words, how do you show, and not tell, behavioral prompts?
 
 Keeping the audience in mind and providing affordance through design; maximizing visual prompts without using words or explicit instructions.
 
-###Brainstorming and Mindmapping 
+### Brainstorming and Mindmapping 
 
 ![img](img/PD8.png)
 
@@ -48,7 +48,7 @@ Keeping the audience in mind and providing affordance through design; maximizing
 
 ![img](img/PD10.png)
 
-###Mapping the space and observing patterns 
+### Mapping the space and observing patterns 
 
 We found a unique location near the dog park which features a cement ping-pong table. We observed and mapped the activities of the people surrounding the ping-pong table area. 
 
@@ -60,17 +60,19 @@ We decided that the ping-pong table provided a good opportunity for interaction 
 
 We then discussed turning the ping-pong table into a canvas, and giving players the opportunity to dip the ping-pong balls in paint so that when they play the game, they are creating paint strokes. We decided that this would get unruly and hard to manage, especially with the potential of kids being involved so we decided to do something less messy.
 
+### Repurposing the Ping-Pong Table's Role
+
 The idea of using the ping-pong table as a formal dining table is what we landed on. We liked the absurdity of setting a formal dining table, as if at a fine restaurant, in the middle of the park. We hypothesize that people will be drawn to a table-setting, and will want to take pictures/play with the items on the table. It reminded me of Judy Chicago's "The Dinner Party" and the "Cardboard Living Room" by Bill Burminski. We want to make it playful, and will make the items out of cardboard/paper mache, and other items so that it is somewhat "larger than life."
 
-###Beginning Prototype Sketches
+### Beginning Prototype Sketches
 
 ![img](img/PD14.jpg)
 
 ![img](img/PD15.jpg)
 
-###Inspiration Exhibits
+### Inspiration Exhibits
 
-The Dinner Party, by Judy Chicago, Brooklyn Museum 
+"The Dinner Party", by Judy Chicago, Brooklyn Museum 
 
 ![img](img/Judy3.png)
 
@@ -78,7 +80,7 @@ The Dinner Party, by Judy Chicago, Brooklyn Museum
 
 ![img](img/Judy.jpg)
 
-###"Cardboard Living Room" (Beyond the Streets exhibit) by Bill Barminski
+### "Cardboard Living Room" (Beyond the Streets exhibit), by Bill Barminski
 
 ![img](img/BeyondStreets.jpg)
 
