@@ -42,7 +42,7 @@ Keeping the audience in mind and providing affordance through design; maximizing
 
 ![img](img/PD8.png)
 
-![img](img/PD11.png)
+![img](img/PD11.jpg)
 
 ![img](img/PD7.png)
 
