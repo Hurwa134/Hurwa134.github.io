@@ -4,7 +4,7 @@ We completed our first prototype test!
 
 ![img](img/prototype1.png)
 
-The questions we set out to answer during our first prototype were: 
+**The questions we set out to answer during our first prototype were:**
 
 -Are we using the right materials (cardboard)? 
 
@@ -18,17 +18,17 @@ The questions we set out to answer during our first prototype were:
 
 ![img](img/prototype4.png)
 
-Our planned interaction: 
+**Our planned interaction:**
 
--Strangers will notice, stop, and sit in the chairs
+-Strangers will notice, stop, and sit in the chairs at the table.
 
--Play with and engage with the installation
+-Sit to play with and engage with the installation.
 
--Take pictures of one another
+-Stop to take pictures of one another with the installation.
 
--Talk to each other
+-Talk to each other.
 
-![img](img/prototype5.png)
+![img](img/fronttable.jpg)
 
 ![img](img/prototypeside.jpg)
 
