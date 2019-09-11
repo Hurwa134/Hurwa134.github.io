@@ -23,7 +23,7 @@ We also created a large "vase" out of wire, covered in reflective, mirror-like m
 
 ### Prototype Test II: Phase A
 
-![img](img/phaseone.jpeg)
+![img](img/phase1.jpeg)
 
 **Primary reactions/feelings we are targetting:**
 
