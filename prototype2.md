@@ -6,9 +6,9 @@
 
 For Prototype Test II we crafted giant candles out of cardboard, clay, wire, and iridescent plastic. 
 
-We painted the candles with acrylic and covered them in glitter, and placed strands of fairy lights (similar to Christmas lights) powered via remote controls inside the flames, which were made of clear plastic glued to shaped wire frames. 
+We painted the candles with acrylic and covered them in glitter, and placed strands of fairy lights (similar to Christmas lights) powered via remote controls inside the flames. Flames were made of clear plastic glued to the wires shaped into flames to hold the light strands.
 
-We also created a large "vase" out of wire, covered in reflective, mirror-like mylar film. We also made giant place mats covered in mylar. We hid the speaker in the vase and covered it with red cellophane (to mimic roses in a vase).
+We also created a large "vase" out of wire, covered in reflective, mirror-like mylar film. We made giant placemats covered in mylar as well. The speaker was hidden in the vase and covered with red cellophane (to mimic roses in a vase).
 
 ![img](img/making1.jpeg)
 
@@ -23,8 +23,6 @@ We also created a large "vase" out of wire, covered in reflective, mirror-like m
 
 ### Prototype Test II: Phase A
 
-
-
 **Primary reactions/feelings we are targetting:**
 
 *Emotional*
@@ -35,8 +33,12 @@ We also created a large "vase" out of wire, covered in reflective, mirror-like m
 
 *Reflective*
 
-The interactive installation evokes emotions through the design of surrealistic scene encountered as an interactive experience. The formal dinner date setting is meant to evoke sentimentality, romance, and highlights communication and the relationship between two people. The musical experience carried by jazz is meant to evoke the romantic feelings of a date and sentimental emotions connected to the jazz history of the location (Charlie Parker’s home across the street.) 
-We want the experience to be led by curiosity and exploration. The interactive, light-up experience and the unexpected surprise of lighting the other person’s candle (on the opposite side of the table) is meant to deliver a whimsical, altered-reality experience through curious discovery. Including large, oversized objects invites users to stop and investigate by looking and touching.
+The interactive installation evokes emotions through the design of a surreal scene encountered as an interactive experience. The formal dining table setting is meant to bring to mind sentimentality, romance, and social connection. The table set for two highlights relationships between people and communication. 
+
+The musical experience is carried by jazz playing from a hidden wireless speaker, specifically the song "Old Devil Moon" by Chet Baker, with lyrics mentioning two candles. Music sets the ambiance of a romantic date and invokes a calm, relaxed, pleasant emotional state. 
+The music is also an homage to the rich jazz history of the location; jazz saxophone icon Charlie Parker’s home is a historic landmark on Avenue B, adjacent to the park.
+
+We want the stranger's interaction with the experience to be led by their curiosity and their explorative instincts. The interactive, light-up experience and unexpected surprise of igniting the other person’s candle (on the opposite side of the table) is meant to deliver a whimsical, surprising, funny experience through discovery. Including large, oversized objects invites users to stop and investigate by sitting, looking at, and touching the items on the table.
 
 
 
@@ -48,10 +50,7 @@ A hidden speaker  inside of the vase playing jazz  drew strangers to the table t
 
 The lights and white tablecloth and chair coverings made the overall appearance of the scene eye-catching and highly noticeable to strangers from very far away (as we were told by users.)
 
-
 ### Prototype Test II: Phase B
-
-
 
 **What role does the form play in initiating the desired interactions?**
 
@@ -79,16 +78,11 @@ The reflective surface of the mirrors behind the candles magnifies the lights an
 
 The larger-than-life, jumbo scale candles which are painted white and coated in glitter are highly visible and reflective. Leaving one lit signals to strangers with vibrant light and sparks curiosity by grabbing their attention.
 
-
-
 ### Prototype Test III: Phase C
-
-
 
 **What did we change to make the interactions longer?**
 
 After one couple rearranged the objects on the table to create a divider out of the mirrored placemats, we left them that way. The candles were reflected when the mirrors were placed vertically behind them, giving the seated viewer a more surreal and strange field of vision. We left the mirrors set up that way for other users to experience.  
-
 
 **Reactions/Feedback**
 
