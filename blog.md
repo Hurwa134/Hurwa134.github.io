@@ -94,6 +94,7 @@ The idea of using the ping-pong table as a formal dining table is what we landed
 
 ![img](img/BillBarminski2.jpg)
 
+# Instruction Sets for Strangers: Prototype Tests 1 & 2 
 
 
 
