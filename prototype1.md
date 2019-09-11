@@ -1,6 +1,6 @@
 # Prototype Test I 
 
-###Findings: Prototype Test I notes and documentation.
+### Findings: Prototype Test I notes and documentation.
 
 ![img](img/prototype1.png)
 
