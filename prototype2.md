@@ -4,7 +4,11 @@
 
 [Prototype Test II Footage](https://drive.google.com/a/newschool.edu/file/d/1Nz5iqj0qb5GbPiJ6AudZ57LmWn1qfuNE/view?usp=drivesdk)
 
-For Prototype Test II we crafted giant candles out of cardboard, clay, wire, and plastic. We painted the candles and place lights powered via remote controls inside the flames which were made of clear plastic glued to shaped wire frames. We also created a large "vase" out of wire, covered in mylar film in which to hide the music speaker.
+For Prototype Test II we crafted giant candles out of cardboard, clay, wire, and iridescent plastic. 
+
+We painted the candles with acrylic and covered them in glitter, and placed strands of fairy lights (similar to Christmas lights) powered via remote controls inside the flames, which were made of clear plastic glued to shaped wire frames. 
+
+We also created a large "vase" out of wire, covered in mylar film in which to hide the music speaker.
 
 ![img](img/making1.jpeg)
 
