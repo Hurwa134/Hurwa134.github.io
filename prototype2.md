@@ -51,8 +51,6 @@ We left one of the candles lit, and turned the other candle off, so that users w
 
 A hidden speaker inside of the vase playing jazz drew strangers to the table to investigate and stop to explore the scene. The lights and white tablecloth and chair coverings made the overall appearance of the scene eye-catching and highly noticeable to strangers from very far away (as we were told by strangers.)
 
-![img](img/phase1.jpeg)
-
 ### Prototype Test II: Phase B
 
 ![img](img/tabla.jpeg)
