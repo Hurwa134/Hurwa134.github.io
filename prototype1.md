@@ -1,6 +1,4 @@
-# Prototype Test I
-
-## Prototype Test I 
+# Prototype Test I 
 
 We completed our first prototype test.
 
