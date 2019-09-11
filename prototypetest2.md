@@ -1,6 +1,6 @@
 # Prototype Test II
 
-We completed our second prototype test.
+##Findings: Prototype Test II notes and documentation
 
 ![img](img/prototype8.png)
 
@@ -15,9 +15,7 @@ We completed our second prototype test.
 
 [Prototype Test II Footage](https://drive.google.com/a/newschool.edu/file/d/1Nz5iqj0qb5GbPiJ6AudZ57LmWn1qfuNE/view?usp=drivesdk)
 
-More about prototype test II. 
-
-### Phase I
+### Prototype Test II: Phase A
 
 ![img](img/prototype13.png)
 
@@ -42,7 +40,7 @@ A hidden speaker  inside of the vase playing jazz  drew strangers to the table t
 The lights and white tablecloth and chair coverings made the overall appearance of the scene eye-catching and highly noticeable to strangers from very far away (as we were told by users.)
 
 
-### Phase II
+### Prototype Test II: Phase B
 
 ![img](img/prototype14.png)
 
@@ -74,11 +72,11 @@ The larger-than-life, jumbo scale candles which are painted white and coated in 
 
 
 
-### Phase III
+### Prototype Test III: Phase C
 
 ![img](img/prototype15.png)
 
-*What did we change to make the interactions longer?*
+**What did we change to make the interactions longer?**
 
 After one couple rearranged the objects on the table to create a divider out of the mirrored placemats, we left them that way. The candles were reflected when the mirrors were placed vertically behind them, giving the seated viewer a more surreal and strange field of vision. We left the mirrors set up that way for other users to experience.  
 
@@ -113,7 +111,7 @@ We hope that user’s will continue to think about the experience and carry thei
 
 We want people to see their preoccupation with technology from a different perspective, and reflect on how staring into their cell phone or device cuts them off from the experience of being present with another person.  The idea of being at a romantic table for two, where they are isolated by the reflection of their own side of the table while they interact with someone on the other side. In this way, we are making a statement with the installation and interaction which we hope will stay with the user beyond this experience. 
 
-One of our users said “I wish this kind of thing was everywhere!” as she left the installation.  We hope that users will look at the “real” world and everyday situations through a different lense after this experience. Maybe they will look at things with more curiosity and see more possibilities for surreal, unexpected experiences in everyday life. 
+One of our users said *“I wish this kind of thing was everywhere!”* as she left the installation.  We hope that users will look at the “real” world and everyday situations through a different lense after this experience. Maybe they will look at things with more curiosity and see more possibilities for surreal, unexpected experiences in everyday life. 
 
 We also want users to reflect on the idea that there is no “end-goal”, that they are not “playing to win”  anything. 
 Many of our prototype testers approached the installation with a competitive, game-play perspective and the idea that they had something to “win” by being “competing” with the person or (seen as the “other player”) on the opposite side of the table. The statement we are making is that there is nothing to win or lose, just art and the experience of being present. 
