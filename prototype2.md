@@ -2,10 +2,19 @@
 
 ## Findings: Prototype Test II notes and documentation
 
-
-
-
 [Prototype Test II Footage](https://drive.google.com/a/newschool.edu/file/d/1Nz5iqj0qb5GbPiJ6AudZ57LmWn1qfuNE/view?usp=drivesdk)
+
+For Prototype Test II we crafted giant candles out of cardboard, clay, wire, and plastic. We painted the candles and place lights powered via remote controls inside the flames which were made of clear plastic glued to shaped wire frames. We also created a large "vase" out of wire, covered in mylar film in which to hide the music speaker.
+
+![img](img/making1.jpeg)
+
+![img](img/making2.jpeg)
+
+![img](img/making3.jpeg)
+
+![img](img/making4.jpeg)
+
+![img](img/making5.jpeg)
 
 
 ### Prototype Test II: Phase A
