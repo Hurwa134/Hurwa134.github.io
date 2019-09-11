@@ -42,21 +42,17 @@ The music is also an homage to the rich jazz history of the location; jazz saxop
 
 We want the stranger's interaction with the experience to be led by their curiosity and their explorative instincts. The interactive, light-up experience and unexpected surprise of igniting the other person’s candle (on the opposite side of the table) is meant to deliver a whimsical, surprising, funny experience through discovery. Including large, oversized objects invites users to stop and investigate by sitting, looking at, and touching the items on the table.
 
-
-
 **How do we initiate interaction with the user?**
 
 We left one of the candles lit, and turned the other candle off, so that users would be attracted to the lights and see that there was the possibility of turning them on or off. This also offered the affordance and opportunity to discover how to light or turn off the candles. 
 
-A hidden speaker  inside of the vase playing jazz  drew strangers to the table to investigate and stop to explore the scene. 
-
-The lights and white tablecloth and chair coverings made the overall appearance of the scene eye-catching and highly noticeable to strangers from very far away (as we were told by users.)
+A hidden speaker inside of the vase playing jazz drew strangers to the table to investigate and stop to explore the scene. The lights and white tablecloth and chair coverings made the overall appearance of the scene eye-catching and highly noticeable to strangers from very far away (as we were told by strangers.)
 
 ### Prototype Test II: Phase B
 
 **What role does the form play in initiating the desired interactions?**
 
--The original “game-play” function lingers as a subtle influence. 
+-The original “game-play” function lingered as an influence. 
 
 -Chairs offer the affordance of sitting at a dinner table. (new)
 
