@@ -94,61 +94,7 @@ The idea of using the ping-pong table as a formal dining table is what we landed
 
 ![img](img/BillBarminski2.jpg)
 
-##  Instruction Sets for Strangers: Prototype Tests 1 & 2 
 
-
-![img](img/prototype1.png)
-
-
-![img](img/prototype2.png)
-
-
-![img](img/prototype3.png)
-
-
-![img](img/prototype4.png)
-
-
-![img](img/prototype5.png)
-
-
-![img](img/prototype6.png)
-
-
-![img](img/prototype7.png)
-
-
-![img](img/prototype8.png)
-
-
-![img](img/prototype9.png)
-
-
-![img](img/prototype10.png)
-
-
-![img](img/prototype11.png)
-
-
-![img](img/prototype12.png)
-
-
-![img](img/prototype13.png)
-
-
-![img](img/prototype14.png)
-
-
-![img](img/prototype15.png)
-
-
-![img](img/prototype16.png)
-
-
-![img](img/prototype17.png)
-
-
-![img](img/prototype18.png)
 
 
 
