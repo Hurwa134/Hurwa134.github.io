@@ -2,32 +2,25 @@
 
 ## Findings: Prototype Test II notes and documentation
 
-![img](img/prototype8.png)
 
-![img](img/prototype9.png)
-
-![img](img/prototype10.png)
-
-![img](img/prototype11.png)
-
-![img](img/prototype12.png)
 
 
 [Prototype Test II Footage](https://drive.google.com/a/newschool.edu/file/d/1Nz5iqj0qb5GbPiJ6AudZ57LmWn1qfuNE/view?usp=drivesdk)
 
+
 ### Prototype Test II: Phase A
 
-![img](img/prototype13.png)
+
 
 **Primary reactions/feelings we are targetting:**
 
-**Emotional**
+*Emotional*
 
-**Playful**
+*Playful*
 
-**Explorative**
+*Explorative*
 
-**Reflective**
+*Reflective*
 
 The interactive installation evokes emotions through the design of surrealistic scene encountered as an interactive experience. The formal dinner date setting is meant to evoke sentimentality, romance, and highlights communication and the relationship between two people. The musical experience carried by jazz is meant to evoke the romantic feelings of a date and sentimental emotions connected to the jazz history of the location (Charlie Parker’s home across the street.) 
 We want the experience to be led by curiosity and exploration. The interactive, light-up experience and the unexpected surprise of lighting the other person’s candle (on the opposite side of the table) is meant to deliver a whimsical, altered-reality experience through curious discovery. Including large, oversized objects invites users to stop and investigate by looking and touching.
@@ -45,7 +38,7 @@ The lights and white tablecloth and chair coverings made the overall appearance 
 
 ### Prototype Test II: Phase B
 
-![img](img/prototype14.png)
+
 
 **What role does the form play in initiating the desired interactions?**
 
@@ -77,7 +70,7 @@ The larger-than-life, jumbo scale candles which are painted white and coated in 
 
 ### Prototype Test III: Phase C
 
-![img](img/prototype15.png)
+
 
 **What did we change to make the interactions longer?**
 
