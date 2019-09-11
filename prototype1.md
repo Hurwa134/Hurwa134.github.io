@@ -62,7 +62,7 @@ Music being played from an iphone was helpful in attracting attention and engage
 
 Increase the size of our props significantly (3-4x bigger than the size of dishes in reality. The concept changed from formal dinner to romantic date (for just two people.) Update the form to 3D. 
 
-**Future Updates to Optimal Time**
+**Optimal Time**
 
 Test on weekends(more couples, families, children, and groups of friends on Saturday instead of single people. )
 
