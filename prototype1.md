@@ -97,7 +97,7 @@ Marina Abramovic, “Sitting with Marina”, 2010.
 
 ![img](img/abromo.jpeg)
 
-![img](img/abromovic.jpeg)
+
 
 
 
