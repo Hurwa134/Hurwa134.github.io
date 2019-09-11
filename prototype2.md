@@ -78,7 +78,7 @@ The reflective surface of the mirrors behind the candles magnifies the lights an
 
 The larger-than-life, jumbo scale candles which are painted white and coated in glitter are highly visible and reflective. Leaving one lit signals to strangers with vibrant light and sparks curiosity by grabbing their attention.
 
-### Prototype Test III: Phase C
+### Prototype Test II: Phase C
 
 **What did we change to make the interactions longer?**
 
