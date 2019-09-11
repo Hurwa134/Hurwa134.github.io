@@ -1,6 +1,6 @@
 # Prototype Test II
 
-## Findings: Prototype Test II notes and documentation
+## Findings: Prototype Test II Notes and Documentation
 
 [Prototype Test II Footage](https://drive.google.com/a/newschool.edu/file/d/1Nz5iqj0qb5GbPiJ6AudZ57LmWn1qfuNE/view?usp=drivesdk)
 
