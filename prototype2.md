@@ -8,7 +8,7 @@ For Prototype Test II we crafted giant candles out of cardboard, clay, wire, and
 
 We painted the candles with acrylic and covered them in glitter, and placed strands of fairy lights (similar to Christmas lights) powered via remote controls inside the flames, which were made of clear plastic glued to shaped wire frames. 
 
-We also created a large "vase" out of wire, covered in mylar film in which to hide the music speaker.
+We also created a large "vase" out of wire, covered in reflective, mirror-like mylar film. We also made giant place mats covered in mylar. We hid the speaker in the vase and covered it with red cellophane (to mimic roses in a vase).
 
 ![img](img/making1.jpeg)
 
