@@ -35,12 +35,15 @@ We also created a large "vase" out of wire, covered in reflective, mirror-like m
 
 *Reflective*
 
-The interactive installation evokes emotions through the design of a surreal scene encountered as an interactive experience. The formal dining table setting is meant to bring to mind sentimentality, romance, and social connection. The table set for two highlights relationships between people and communication. 
+![img](img/feelings.jpeg)
 
-The musical experience is carried by jazz playing from a hidden wireless speaker, specifically the song "Old Devil Moon" by Chet Baker, with lyrics mentioning two candles. Music sets the ambiance of a romantic date and invokes a calm, relaxed, pleasant emotional state. 
-The music is also an homage to the rich jazz history of the location; jazz saxophone icon Charlie Parker’s home is a historic landmark on Avenue B, adjacent to the park.
+The installation evokes emotions through a surreal scene encountered as an interactive, dreamy experience. The formal dining table setting is meant to bring to mind sentimentality, intersocial communication, and social connection. The table for two highlights relationships between people and relationships. 
 
-We want the stranger's interaction with the experience to be led by their curiosity and their explorative instincts. The interactive, light-up experience and unexpected surprise of igniting the other person’s candle (on the opposite side of the table) is meant to deliver a whimsical, surprising, funny experience through discovery. Including large, oversized objects invites users to stop and investigate by sitting, looking at, and touching the items on the table.
+The musical experience is carried by jazz playing from a hidden wireless speaker, specifically the song "Old Devil Moon" by Chet Baker, with lyrics mentioning two candles. Music sets the ambiance of a romantic date and invokes a calm, relaxed, pleasant emotional state. The music is also an homage to the rich jazz history of the location; jazz icon Charlie Parker’s home is a historic landmark on Avenue B, adjacent to the park.
+
+We want the stranger's interaction with the experience to be led by curiosity and explorative instincts. The surprise of igniting the other person’s candle (on the opposite side of the table) is meant to deliver a whimsical, funny, unexpected experience through discovery. Including large, oversized objects invites users to stop and investigate an alternate reality by sitting, looking at, and touching the items on the table.
+
+![img](img/feelings.jpeg)
 
 **How do we initiate interaction with the user?**
 
@@ -48,7 +51,11 @@ We left one of the candles lit, and turned the other candle off, so that users w
 
 A hidden speaker inside of the vase playing jazz drew strangers to the table to investigate and stop to explore the scene. The lights and white tablecloth and chair coverings made the overall appearance of the scene eye-catching and highly noticeable to strangers from very far away (as we were told by strangers.)
 
+![img](img/phase1.jpeg)
+
 ### Prototype Test II: Phase B
+
+![img](img/tabla.jpeg)
 
 **What role does the form play in initiating the desired interactions?**
 
@@ -77,6 +84,8 @@ The reflective surface of the mirrors behind the candles magnifies the lights an
 The larger-than-life, jumbo scale candles which are painted white and coated in glitter are highly visible and reflective. Leaving one lit signals to strangers with vibrant light and sparks curiosity by grabbing their attention.
 
 ### Prototype Test II: Phase C
+
+![img](img/phase3.jpeg)
 
 **What did we change to make the interactions longer?**
 
