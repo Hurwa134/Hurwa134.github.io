@@ -59,7 +59,7 @@ Music being played from an iphone was helpful in attracting attention and engage
 
 ### **Future Improvements**
 
-**Future Updates to Form**
+**Form**
 
 Increase the size of our props significantly (3-4x bigger than the size of dishes in reality. The concept changed from formal dinner to romantic date (for just two people.) Update the form to 3D. 
 
@@ -67,13 +67,13 @@ Increase the size of our props significantly (3-4x bigger than the size of dishe
 
 Test on weekends(more couples, families, children, and groups of friends on Saturday instead of single people. )
 
-**Future Plans/Changes to Materials**
+**Materials**
 
 Use paper-mache in addition to cardboard and other methods for 3D to create “oversized” props. 
 
 This emphasis the affordance to sit suggested by the chairs, which we believe will improve attention and engagement.
 
-**Changes to Future Setup**
+**Setup**
 
 We want to maintain the shiny/reflective aspect of the form. Bright colors will be more attention grabbing than neutral metallics. Making a reflective, mirror-like surface to cover the table will create playful reflections. We will need a wireless speaker which can provide music at a higher volume. 
 
