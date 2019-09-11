@@ -124,6 +124,10 @@ One of our users said *“I wish this kind of thing was everywhere!”* as she l
 We also want users to reflect on the idea that there is no “end-goal”, that they are not “playing to win”  anything. 
 Many of our prototype testers approached the installation with a competitive, game-play perspective and the idea that they had something to “win” by being “competing” with the person or (seen as the “other player”) on the opposite side of the table. The statement we are making is that there is nothing to win or lose, just art and the experience of being present. 
 
+**Conclusion**
+
+We found that some people didn't notice the remote controls because they were so small, or it took them a long time to figure out that they were remotes and had functionality. (One individual thought that the remotes were paper weights to hold the table cloth down.) For the third prototype test, we want to make the remotes bigger (or embed them in a larger case) and make them more noticeable with an affordance making the buttons and function more prominent. We definitely want to run our third prototype test on Saturday night (as opposed to Sunday night, which was much less busy in terms of foot traffic.) We will try to hide and not be within direct view of the installation during the next test so that strangers will not feel as much need to ask permission to touch/explore the piece. It was more time consuming to craft the candle sticks than anticipated during this test; we did not have time to create giant plates and silverware. For the third prototype we will be adding the oversized silverware and plates, to add to the "Alice In Wonderland" effect. I think it would also add to the experience to add some bottles or other things that offer the "eat me/drink me" affordance. Ideally, we would want to place motion sensors in the objects and have them react with objects on the other side of the table (i.e. lifting a bottle makes something light up, etc.) 
+
 
 
 
