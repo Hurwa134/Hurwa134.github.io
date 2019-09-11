@@ -2,10 +2,21 @@
 
 We completed our first prototype test!
 
+![img](img/prototype1.png)
+
+Detailing the first prototype test here.
+
+More images.
+
+
 [Prototype Test I Footage](
 https://drive.google.com/file/d/1_HcqHmJrMhzm2GlPKin2euVE_hietx5c/view?usp=sharing)
 
-More about prototype test I. 
+Conclusion
 
-![img](img/prototype1.png)
+Details about conclusion.
+
+Marina Abromovic pic.
+
+
 
