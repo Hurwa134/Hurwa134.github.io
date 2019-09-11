@@ -85,7 +85,7 @@ The larger-than-life, jumbo scale candles which are painted white and coated in 
 
 ### Prototype Test II: Phase C
 
-![img](img/phase3.jpeg)
+![img](img/phase3.gif)
 
 **What did we change to make the interactions longer?**
 
