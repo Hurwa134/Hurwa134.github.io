@@ -1,6 +1,6 @@
 # Prototype Test II
 
-##Findings: Prototype Test II notes and documentation
+## Findings: Prototype Test II notes and documentation
 
 ![img](img/prototype8.png)
 
