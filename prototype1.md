@@ -93,9 +93,8 @@ In summary, we found that 2D cardboard props were too hard for people to disting
 
 After our prototype I test, we were reminded of the performance art piece by Marina Abramovic called “Sitting with Marina” at the Museum of Modern Art in 2010. In the show the artist sat motionless for seven hours at a time, and looked into the eyes of museum visitors sitting across from her at a table until they felt some kind of connection or reaction.
 
-Marina Abramovic, “Sitting with Marina”, 2010.
-
 ![img](img/abromo.jpeg)
+Marina Abramovic, “Sitting with Marina”, 2010.
 
 
 
