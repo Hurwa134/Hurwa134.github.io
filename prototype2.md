@@ -43,7 +43,7 @@ The musical experience is carried by jazz playing from a hidden wireless speaker
 
 We want the stranger's interaction with the experience to be led by curiosity and explorative instincts. The surprise of igniting the other person’s candle (on the opposite side of the table) is meant to deliver a whimsical, funny, unexpected experience through discovery. Including large, oversized objects invites users to stop and investigate an alternate reality by sitting, looking at, and touching the items on the table.
 
-![img](img/feelings.jpeg)
+![img](img/players.jpeg)
 
 **How do we initiate interaction with the user?**
 
