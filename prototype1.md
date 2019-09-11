@@ -32,8 +32,8 @@
 
 ![img](img/prototypeside.jpg)
 
-[Prototype Test I Footage](
-https://drive.google.com/file/d/1_HcqHmJrMhzm2GlPKin2euVE_hietx5c/view?usp=sharing)
+### **[Prototype Test I Footage](
+https://drive.google.com/file/d/1_HcqHmJrMhzm2GlPKin2euVE_hietx5c/view?usp=sharing)**
 
 ### **Test Findings**
 
@@ -97,6 +97,7 @@ After our prototype I test, we were reminded of the performance art piece by Mar
 Marina Abramovic, “Sitting with Marina”, 2010.
 
 ![img](img/prototype7.png)
+
 
 
 
