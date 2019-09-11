@@ -95,9 +95,11 @@ After our prototype I test, we were reminded of the performance art piece by Mar
 
 Marina Abramovic, “Sitting with Marina”, 2010.
 
-![img](img/abromo.jpg)
+![img](img/abromo.jpeg)
 
-![img](img/abromovic.jpg)
+![img](img/abromovic.jpeg)
+
+
 
 
 
