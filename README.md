@@ -5,3 +5,5 @@
 [Prototype Test I](prototype1.md)
 
 [Prototype Test II](prototype2.md)
+
+[Prototype Test III](prototype3.md)
