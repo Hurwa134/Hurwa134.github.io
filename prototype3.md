@@ -6,7 +6,6 @@ The dining table set for two explores communication and the relationship between
 
 The reflective surfaces act as dividers in the center of the table, reflecting each individual’s side of the table and their own candle. This is a commentary on people’s preoccupation with playing with tech-devices and not being present in the company of others. Despite dining together at a table, each user is preoccupied with their remote control device and the isolation of their own reflection. 
 
-
 ![img](img/p3.jpeg)
 
 ![img](img/p3.2.jpeg)
@@ -56,11 +55,13 @@ The reflective surfaces act as dividers in the center of the table, reflecting e
 ## Style Feedback
 
 ![img](img/p3.6.jpeg)
+
 EDM (Electronic Digital Music) festivals
 
 The installation reminded someone of EDM (Electronic Digital Music) festivals where people incorporate glowing and light up fashion, jewelry, and accessories. 
 
 ![img](img/p3.7.jpeg)
+
 Seaglass Carousel at Battery Park
 
 We were also told that the project reminded someone else of the Seaglass Carousel at Battery Park which incorporates ambient music and glowing underwater scenery.
