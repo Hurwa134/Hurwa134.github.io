@@ -7,9 +7,9 @@ The dining table set for two explores communication and the relationship between
 The reflective surfaces act as dividers in the center of the table, reflecting each individual’s side of the table and their own candle. This is a commentary on people’s preoccupation with playing with tech-devices and not being present in the company of others. Despite dining together at a table, each user is preoccupied with their remote control device and the isolation of their own reflection. 
 
 
-![img](img/ )
+![img](img/p3.jpeg)
 
-![img](img/ )
+![img](img/p3.2.jpeg)
 
 ## Changes Made for Prototype III:
 
@@ -18,7 +18,7 @@ The reflective surfaces act as dividers in the center of the table, reflecting e
 -Warm fairy lights added to vase with roses. 
 
 
-![img](img/ )
+![img](img/p3.3.jpeg)
 
 -Placemats with mirror surface in addition to the reflective slanted dividers.
 
@@ -27,52 +27,47 @@ The reflective surfaces act as dividers in the center of the table, reflecting e
 -Lights shining on the remote controls placed inside of the giant plates.
 
 
-![img](img/ )
+![img](img/p3.4.jpeg)
 
 -We set up a tripod with an iPhone video camera to capture interactions. 
 
 -No convos at all between us and the strangers until after they had experienced the interaction. 
 
 
-![img](img/ )
+![img](img/p3.5.jpeg)
 
 
 [Prototype Test III Footage]( )
 
 ## Reactions
 
-“It’s very romantic and kind of witchy.” - Musician.
+“It’s very romantic and kind of witchy.” - Musician
 
-“Are you having dinner or a seance?” -Single woman.
+“Are you having dinner or a seance?” -Single woman
 
-“I’m confused...I accept it.” -Guy walking by in a large group with his friends.
+“I’m confused...I accept it.” -Guy walking by in a large group with his friends
 
-“It’s a social experiment. Is that what it is?” - A Parsons film student.
+“It’s a social experiment. Is that what it is?” - A Parsons film student
 
-“It’s really neat.” - Little boy, around six years old.
+“It’s really neat.” - Little boy, around six years old
 
-“This is why we live in NYC. You won’t find this in Orange County.” -Little boy’s mother.
+“This is why we live in NYC. You won’t find this in Orange County.” -Little boy’s mother
 
 ## Style Feedback
 
-
-![img](img/ )
-
+![img](img/p3.6.jpeg)
 EDM (Electronic Digital Music) festivals
 
 The installation reminded someone of EDM (Electronic Digital Music) festivals where people incorporate glowing and light up fashion, jewelry, and accessories. 
 
-
-![img](img/ )
-
+![img](img/p3.7.jpeg)
 Seaglass Carousel at Battery Park
 
 We were also told that the project reminded someone else of the Seaglass Carousel at Battery Park which incorporates ambient music and glowing underwater scenery.
 
 ## Meaningfulness
 
-Two strangers met at the installation, and ended up leaving together to get drinks and go on a DATE!
-
+![img](img/p3.8.png)
 
 -Most people were unaware of the rich jazz history of the location and were excited to learn about the historical connection to the installation. 
 
@@ -84,7 +79,7 @@ Two strangers met at the installation, and ended up leaving together to get drin
 
 -We created the experience and influence for kids of art and music.
 
-![img](img/ )
+![img](img/p3.9.jpeg)
 
 ## Future Ideas
 
