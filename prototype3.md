@@ -92,9 +92,9 @@ The range of the sensor for the existing remote control is very limited. People 
 
 ## Reflection
 
-Style is revealed through process iteration and I really enjoy the way that personal style appears in the design process. I enjoy learning about my artistic style in this way. It was interesting too, to see what people’s perceptions of the project were. 
+Style is revealed through process iteration and I really enjoy the way that personal style appears in the design process. Learning about my own personal artistic style in this way is really illuminating and exciting to me. It feels like something of a mysterious process. It was really interesting too, to see what other people’s perceptions of the project were. 
 
-One thing I learned during this process was that you have to trust that if you put the work and effort into the design, something good will appear.  Our ideas seemed to start to flow and snowball once we solidified the concept. 
+One thing I learned during this project was that you have to trust that if you put the work and effort into the design, something good will appear. I had the most trouble with my anxiety and lack of control in the stages before we had established a concept or form - that is a very uncomfortable stage for me. I learned that it's especially important for me to trust the process of putting in the effort and letting things reveal themselves through the work. Our ideas seemed to start to flow and snowball once we solidified the concept. 
 
 When strangers interacted with the piece and rearranged objects on the table we decided that it looked good that way and maintained the changes. Their redecorating then led to other strangers saying it reminded them of the isolation people experience due to their obsession with their tech devices – which was something we hadn’t considered.  That metaphor really resonated with us, and we decided that we wanted to make that statement.  
 
