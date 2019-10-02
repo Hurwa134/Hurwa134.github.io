@@ -1,15 +1,15 @@
 
 # Major Studio 1: Final Project, Research Question Research
 
-
 ## How can I create a piece of art that makes Americans feel unified rather than red or blue (political identity tribes)? 
 
 The way that the U.S. is so divided politically is something I would love to address in order to promote harmony, and to re-humanize Americans on both ends of the political divide. I’m really inspired the work by JR “Guns in America” that I worked on representing last year, and I would really like to make something that is like a pastiche of that piece. I like how it is multi-modal (static images and video) and was presented as a projection on a large scale as well as on the cover of a magazine (and as a centerfold).  The TIME website also featured it as an interactive site, where you could click on the individual images in the mural to hear the audio recordings.  If I could create something in any way similar, I feel that the issue of almost blinding partisanship in the U.S. is something that artists could really help to address. I personally feel challenged by this issue and am very concerned about the political situation in the U.S.
 
 I would like to make something that encourages people to see each other as fellow Americans, and to re-humanize each other and to love others.  The colors of red and blue could be used to symbolize the two-party system. I’d like to create something that makes people reconsider and rethink any habitual “othering” that they may do to other Americans, which we are perhaps being encouraged to do, and see each other as the same, Americans. I’m particularly concerned about America and our political party identities being encouraged to fight and be pitted against one another. This idea could also apply to an international level and breaking down boundaries and borders to re-humanize those seen as “other.” I’m also legitimately afraid of Right Wing/conservatives in the U.S and the idea of touching anything brazenly political makes me nervous, but one of my artistic goals is to be fearless and uncensored. I’m considering if making a political statement in a somewhat veiled, metaphorical way would be better than something as literal as “Guns in America”.
 
-I’m also really passionate about poetry so I’m wondering if a collage of some kind could be created that includes poetry, images, video, and audio. I like the idea of a digital collage. I’m also really inspired by more radical “real-time” protest art: https://news.artnet.com/art-world/hong-kong-artists-protest-1622485
+I’m also really passionate about poetry so I’m wondering if a collage of some kind could be created that includes poetry, images, video, and audio. I like the idea of a digital collage. I’m also really inspired by more radical “real-time” protest art. 
 
+[Protest Art in Hong Kong](https://news.artnet.com/art-world/hong-kong-artists-protest-1622485) 
 
 ![img](img/handpainted.jpeg)
 
