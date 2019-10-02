@@ -54,28 +54,30 @@ that the melody of the human race
 is a song that never ends.
 music is sacred.
 
-(You can read the poem “Music is Sacred” in this article: https://www.rollingstone.com/music/music-news/jack-white-pens-poem-music-is-sacred-237531/)
+(You can read the poem “Music is Sacred” in this [Rolling Stone article.](https://www.rollingstone.com/music/music-news/jack-white-pens-poem-music-is-sacred-237531/)
 
-I found an academic book called “Deep Listeners: Music, Emotion, and Trancing” by Judith Beck. The book posits that “both religious ecstatics and “deep listeners” experience strong emotional responses when listening to music they find deeply moving. And furthermore, that “deep listeners” are potential trancers.”  https://web.stanford.edu/group/brainwaves/2006/Becker-DeepListenersLecture.pdf
+
+I found an academic book called [“Deep Listeners: Music, Emotion, and Trancing” by Judith Beck.](https://web.stanford.edu/group/brainwaves/2006/Becker-DeepListenersLecture.pdf)The book posits that “both religious ecstatics and “deep listeners” experience strong emotional responses when listening to music they find deeply moving. And furthermore, that “deep listeners” are potential trancers.”  
 
 ![img](img/PianoNotesinaBowlofWater.jpeg)
 
 I think it would be interesting to make a somewhat literal interpretation of this idea of music being sacred, to say “music is my religion.” I’d like to combine that with the healing property of music and visual art therapy and their ties to meditation/religious states of consciousness. I.e. Buddhist mandalas are patterned so that the experience of viewing them puts you into an “altered” state of meditative consciousness. I’d like to create harmony within though interactive meditation via music/images/color.  I also came across these images of water molecule patterns when different music notes are played on a grand piano: https://www.youtube.com/watch?v=9al397N6Tzs
 
-Additionally, there is a strange condition I read about called “musical ear syndrome” wherein you start to hear music when other background noise occurs (like being near a fan) or for no reason. It seems like an interesting and strange thing that could potentially be incorporated somehow into multimodal work featuring music: https://hearinglosshelp.com/blog/apophenia-audio-pareidolia-and-musical-ear-syndrome/
+Additionally, there is a strange condition I read about called “musical ear syndrome” wherein you start to hear music when other background noise occurs (like being near a fan) or for no reason. It seems like an interesting and strange thing that could potentially be incorporated somehow into multimodal work featuring music. [Link to article about Musical Ear Syndrome](https://hearinglosshelp.com/blog/apophenia-audio-pareidolia-and-musical-ear-syndrome/)
 
 ## Existing Map of Emotions 
 
 The Atlas of Emotions project by the Dalai Llama is an interactive website which charts emotions and how they are related. It states “The first step towards emotional awareness is learning to identify and describe how you are feeling, and why.  The goal is to gain greater control over what triggers your emotions and how you respond. The Atlas is an interactive tool that builds your vocabulary of emotions of emotions and illuminates your emotional world.” The Atlas of Emotions categorizes many (if not all) known human emotions in an interactive way which breaks them into categories according to Budhhist philosophy : http://atlasofemotions.org/
 
 I am curious about creating something sort of similar, but which uses different genres of music, different shapes, and colors associated with different emotions. I’m also curious about synesthesia and Chromesthesia (sound-to-color synesthesia). I like art that is evocative of dreams or surrealism, and I think that those would work really well with these themes.
-I also found this article about mirror neurons and triggering emotions through visual art, as used in art therapy: https://www.tandfonline.com/doi/abs/10.1080/07421656.2010.10129385
+
+I also found this article about [mirror neurons and triggering emotions through visual art, as used in art therapy.](https://www.tandfonline.com/doi/abs/10.1080/07421656.2010.10129385)
 
 I haven’t seen any other artist combine color and music to specifically trigger emotions/memory. I did think this was really interesting as well -
 I particularly like how this artwork “Vision of the world: Virtual or Real?” By Olga Kosheleva makes the view question their perception of reality and how they see the world through something as literal as giant glasses combined with an optical illusion. I like how simple and straight forward it is yet the use of the LEDs and the mirrors shift perception.
 
-“Virtual or Real?” 
-https://olgakosheleva.com/artwork/vision-of-the-world-virtual-or-real/
+[“Virtual or Real?”]
+(https://olgakosheleva.com/artwork/vision-of-the-world-virtual-or-real/)
 
 ![img](img/virtualorreal.jpeg)
 
@@ -85,5 +87,8 @@ https://olgakosheleva.com/artwork/vision-of-the-world-virtual-or-real/
 ## Symbols
 
 I’m also really interested in symbolism and the use of symbols in music, visual arts, and poetry.
-I want to create something with the aim of making people feel something, making people think, and hopefully having that stay with them after they leave the work behind. I also feel that the idea of music as the universal language speaks well to the political protest art that I am considering. I want the work to make people feel re-humanized and connected to others through the vehicle of music and visual art in an interactive way which promotes harmony.
+
+## Conclusion
+
+I feel very challenged by both these questions but ultimately think that they're both very important and meaningful to me as well as to others. I want to create something expressive which makes people feel, makes people think, and hopefully stays with them after they leave the work behind. I also feel that the idea of music as the universal language speaks well to the political protest art that I am considering. I want the work to make people feel re-humanized and connected to others through the vehicle of music and visual art in an interactive way which promotes harmony.
 
