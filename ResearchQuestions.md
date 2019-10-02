@@ -59,9 +59,12 @@ music is sacred.
 
 I found an academic book called [“Deep Listeners: Music, Emotion, and Trancing” by Judith Beck.](https://web.stanford.edu/group/brainwaves/2006/Becker-DeepListenersLecture.pdf)The book posits that “both religious ecstatics and “deep listeners” experience strong emotional responses when listening to music they find deeply moving. And furthermore, that “deep listeners” are potential trancers.”  
 
+
+Thinking of associating music to colors and/or patterns, I came across these images of water molecule patterns when [different music notes are played on a grand piano.](https://www.youtube.com/watch?v=9al397N6Tzs)
+
 ![img](img/PianoNotesinaBowlofWater.jpeg)
 
-I think it would be interesting to make a somewhat literal interpretation of this idea of music being sacred, to say “music is my religion.” I’d like to combine that with the healing property of music and visual art therapy and their ties to meditation/religious states of consciousness. I.e. Buddhist mandalas are patterned so that the experience of viewing them puts you into an “altered” state of meditative consciousness. I’d like to create harmony within though interactive meditation via music/images/color.  I also came across these images of water molecule patterns when different music notes are played on a grand piano: https://www.youtube.com/watch?v=9al397N6Tzs
+I think it would be interesting to make a somewhat literal interpretation of this idea of music being sacred, to say “music is my religion.” I’d like to combine that with the healing property of music and visual art therapy and their ties to meditation/religious states of consciousness. I.e. Buddhist mandalas are patterned so that the experience of viewing them puts you into an “altered” state of meditative consciousness. I’d like to create harmony within though interactive meditation via music/images/color.  
 
 Additionally, there is a strange condition I read about called “musical ear syndrome” wherein you start to hear music when other background noise occurs (like being near a fan) or for no reason. It seems like an interesting and strange thing that could potentially be incorporated somehow into multimodal work featuring music. [Link to article about Musical Ear Syndrome](https://hearinglosshelp.com/blog/apophenia-audio-pareidolia-and-musical-ear-syndrome/)
 
