@@ -71,13 +71,12 @@ The Atlas of Emotions project by the Dalai Llama is an interactive website which
 
 I am curious about creating something sort of similar, but which uses different genres of music, different shapes, and colors associated with different emotions. I’m also curious about synesthesia and Chromesthesia (sound-to-color synesthesia). I like art that is evocative of dreams or surrealism, and I think that those would work really well with these themes.
 
-I also found this article about [mirror neurons and triggering emotions through visual art, as used in art therapy.](https://www.tandfonline.com/doi/abs/10.1080/07421656.2010.10129385)
+I also found this article about mirror neurons and triggering emotions through visual art, as used in [art therapy.](https://www.tandfonline.com/doi/abs/10.1080/07421656.2010.10129385)
 
 I haven’t seen any other artist combine color and music to specifically trigger emotions/memory. I did think this was really interesting as well -
 I particularly like how this artwork “Vision of the world: Virtual or Real?” By Olga Kosheleva makes the view question their perception of reality and how they see the world through something as literal as giant glasses combined with an optical illusion. I like how simple and straight forward it is yet the use of the LEDs and the mirrors shift perception.
 
-[“Virtual or Real?”]
-(https://olgakosheleva.com/artwork/vision-of-the-world-virtual-or-real/)
+[“Virtual or Real?”](https://olgakosheleva.com/artwork/vision-of-the-world-virtual-or-real/)
 
 ![img](img/virtualorreal.jpeg)
 
