@@ -30,7 +30,7 @@ For some reason I thought about how you could interact with something that shows
 
 How do they effect emotions and mood/memory?
 
-**Idea **
+**Idea**
 
 I haven’t done yoga or painted to different music but I am curious to see how creative work is different as effected by different styles of music, beats per minute, or having done yoga to different music prior to painting/etc.
 
@@ -42,24 +42,43 @@ While I appreciated not having a religion forced on me, I always admired my frie
 Meditating to music and thinking about music as comparable to a religion, I remembered a poem that I read a few years ago by musician Jack White. I remembered it as “Music is Religion” but it is called “Music is Sacred.” I would love to embody a similar message in a multi-modal work.
 
 *Music is Sacred
+
 those of you who stand for the sanctity of music
+
 so that its soul can breathe
+
 and be heard
+
 so that it blooms in graveyards
+
 echoes in hotel hallways
+
 awakens neighbors in the night
+
 and fills people’s minds with fire
+
 shout it out loud with whatever microphone you have
+
 or these stones will shout for you.
+
 jump in front of demons,
+
 and stand over cowards and those who would intend
+
 to rip out your lungs and dampen your desire
+
 tell the living and the dead
+
 what you know in your heart to be true
+
 and what you know your ears
+
 will forever hear
+
 that the melody of the human race
+
 is a song that never ends.
+
 music is sacred.*
 
 (You can read the poem “Music is Sacred” in this [Rolling Stone article.](https://www.rollingstone.com/music/music-news/jack-white-pens-poem-music-is-sacred-237531/)
