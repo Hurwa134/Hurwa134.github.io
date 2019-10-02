@@ -1,6 +1,8 @@
 
 # Major Studio 1: Final Project, Research Question Research
 
+I am still narrowing down my research questions, but the two that I'm considering now are below. Some values that are important to me in my work are being bold, uncensored, and fearless.  Although I'd normally shy away from anything related to politics or religion in a public forum, I am taking them on anyway.  I feel most comfortable designing for myself, and hoping that what I create will resonate with an audience, so I took notes on my experience as observation to begin.
+
 ## How can I create a piece of art that makes Americans feel unified rather than red or blue (political identity tribes)? 
 
 The way that the U.S. is so divided politically is something I would love to address in order to promote harmony, and to re-humanize Americans on both ends of the political divide. I’m really inspired the work by JR “Guns in America” that I worked on representing last year, and I would really like to make something that is like a pastiche of that piece. I like how it is multi-modal (static images and video) and was presented as a projection on a large scale as well as on the cover of a magazine (and as a centerfold).  The TIME website also featured it as an interactive site, where you could click on the individual images in the mural to hear the audio recordings.  If I could create something in any way similar, I feel that the issue of almost blinding partisanship in the U.S. is something that artists could really help to address. I personally feel challenged by this issue and am very concerned about the political situation in the U.S.
@@ -32,7 +34,7 @@ How do they effect emotions and mood/memory?
 
 **Idea**
 
-I haven’t done yoga or painted to different music but I am curious to see how creative work is different as effected by different styles of music, beats per minute, or having done yoga to different music prior to painting/etc.
+I am also curious to see how creative work is differently effected by different styles of music, beats per minute, or having done yoga to different music prior to painting/etc.
 
 ## Music as a Religion: and how can I make an artistic statement that “music is my religion?” 
 I started to think more about my own relationship to music and why it’s so important to me. I’m a musician, and I was raised in a musical family – but I was also raised by parents who made a conscious choice not to impart any kind of religious values on my brother and I, so I was raised in a vaguely Christian/also Buddhist household.
