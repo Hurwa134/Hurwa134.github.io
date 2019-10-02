@@ -18,11 +18,19 @@ I am also still approaching the questions of synesthesia/music/memory and emotio
 
 I started to think about ways that music is spiritual and how to signify it visually. I envisioned making something like stained glass windows which show colors and patterns (maybe Buddhist mandalas) that change according to different notes or styles of music. I took notes after listening to an acoustic guitar meditation and these were my thoughts:
 
-## Mood awareness: I feel like the music helped me feel more aware of my current mood/state of emotion. I thought about how this was enhanced through meditating to music.
+** Mood awareness:** 
 
-## Hand movements/finger painting: for some reason I thought about how you could interact with something that shows colors/visual patterns to different music but which you control as if you are finger-painting, with your hand movements.
+I feel like the music helped me feel more aware of my current mood/state of emotion. I thought about how this was enhanced through meditating to music.
 
-## Color and sound: How do they effect emotions and mood/memory?
+** Hand movements/finger painting:** 
+
+For some reason I thought about how you could interact with something that shows colors/visual patterns to different music but which you control as if you are finger-painting, with your hand movements.
+
+** Color and sound:** 
+
+How do they effect emotions and mood/memory?
+
+** Idea **
 
 I haven’t done yoga or painted to different music but I am curious to see how creative work is different as effected by different styles of music, beats per minute, or having done yoga to different music prior to painting/etc.
 
@@ -33,7 +41,7 @@ While I appreciated not having a religion forced on me, I always admired my frie
 
 Meditating to music and thinking about music as comparable to a religion, I remembered a poem that I read a few years ago by musician Jack White. I remembered it as “Music is Religion” but it is called “Music is Sacred.” I would love to embody a similar message in a multi-modal work.
 
-Music is Sacred
+*Music is Sacred
 those of you who stand for the sanctity of music
 so that its soul can breathe
 and be heard
@@ -52,7 +60,7 @@ and what you know your ears
 will forever hear
 that the melody of the human race
 is a song that never ends.
-music is sacred.
+music is sacred.*
 
 (You can read the poem “Music is Sacred” in this [Rolling Stone article.](https://www.rollingstone.com/music/music-news/jack-white-pens-poem-music-is-sacred-237531/)
 
