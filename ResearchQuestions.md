@@ -18,19 +18,19 @@ I am also still approaching the questions of synesthesia/music/memory and emotio
 
 I started to think about ways that music is spiritual and how to signify it visually. I envisioned making something like stained glass windows which show colors and patterns (maybe Buddhist mandalas) that change according to different notes or styles of music. I took notes after listening to an acoustic guitar meditation and these were my thoughts:
 
-** Mood awareness:** 
+**Mood awareness:** 
 
 I feel like the music helped me feel more aware of my current mood/state of emotion. I thought about how this was enhanced through meditating to music.
 
-** Hand movements/finger painting:** 
+**Hand movements/finger painting:** 
 
 For some reason I thought about how you could interact with something that shows colors/visual patterns to different music but which you control as if you are finger-painting, with your hand movements.
 
-** Color and sound:** 
+**Color and sound:** 
 
 How do they effect emotions and mood/memory?
 
-** Idea **
+**Idea **
 
 I haven’t done yoga or painted to different music but I am curious to see how creative work is different as effected by different styles of music, beats per minute, or having done yoga to different music prior to painting/etc.
 
