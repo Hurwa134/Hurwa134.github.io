@@ -71,6 +71,8 @@ I am very inspired by the work of [Shannon Novak](http://www.shannonnovak.com/wo
 ![img](img/ShannonNovak3.jpeg)
 _Bound installation_ by Shannon Novak 
 
+Novak also pays homage to Kandinsky, who I learned had synesthesia as well. 
+
 ![img](img/Kandinsky1.jpeg)
 _Kandinsky – Im Schwarzen Viereck_
 
