@@ -27,7 +27,7 @@ I wanted to illustrate the song through fabric for a fashion-like aesthetic, to 
 
 ![img](img/billevans3.jpeg)
 
-I enjoyed making it more abstract and trying to emphasize the rhythm and melody with multiple colors. I'd like to try it again with other songs, genre's of music, and/or songs with more instruments. I especially like the approach used by Stuart Davis in his jazz paintings of illustrating the rhythm and expression of different instruments in a song with different colors. I like the concept of a multicolored paintingwhich expresses a song's instruments as a visual collage. 
+I enjoyed making it more abstract and trying to emphasize the rhythm and melody with multiple colors. I'd like to try it again with other songs, genre's of music, and/or songs with more instruments. 
 
 ## Inspiration
 
@@ -37,7 +37,9 @@ I enjoyed making it more abstract and trying to emphasize the rhythm and melody 
 
 _Hot Still-Scape for Six Colors - 7th Avenue Style (1940)_
 
-Stuart Davis was one of the first American artists to consider jazz and swing to as the musical counterpart to abstract art. Davis explained, "[It] is called Hot [a jazz term] because of its dynamic mood" akin to the energy and improvisation in jazz music. The six colors "are used as the instruments in a musical composition might be, where the tone-color variety results from the simultaneous juxtaposition of different instrument groups." He worked with the idea of combining the senses and incoprorating the movement and rhythm of jazz into his visual work. 
+Stuart Davis was one of the first American artists to consider jazz and swing to as the musical counterpart to abstract art. Davis explained, "[It] is called Hot [a jazz term] because of its dynamic mood" akin to the energy and improvisation in jazz music. The six colors "are used as the instruments in a musical composition might be, where the tone-color variety results from the simultaneous juxtaposition of different instrument groups." I especially like the approach used by Davis of illustrating the rhythm and expression of different instruments with different colors. I like the concept of a multicolored painting which expresses a song's instruments as a visual collage. 
+
+He worked with the idea of combining the senses and incorporating the movement and rhythm of jazz into his visual work. 
 
 ### *Susan Novak*
 
