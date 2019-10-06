@@ -6,6 +6,9 @@
 
 *Postcard* 
 
+![img](img/data1.jpeg)
+_My averaged music listening habits (Over a 24 hour period)_
+
 I mapped the times that I wanted to listen to music throughout a day. I found that I wanted to all the time, or at least, whenever I thought of it so I made notes when listening to music came to mind. I also used my Spotify user data, which shows my listening habits over a typical 24 hour period, based on my aggregate music-streaming data over the past year. I drew a line graph on posterboard the size of a postcard which I covered in black fabric. I drew on the fabric with glitter glue and fabric paint and indicated time of day with Roman numerals. 
 
 I also tried to map out when I was inspired by color/visuals during the day, in a musical sense. For example, when I saw a bright bouquet of flowers at the farmers market, I noticed I felt musically inspired. I came to the conclusion that it would make sense for me to document these moments of color-induced-musical-inspiration at an art gallery or museum.
@@ -13,9 +16,21 @@ I also tried to map out when I was inspired by color/visuals during the day, in 
 
 *Poster*
 
+![img](img/billevans5.jpeg)
 _Visual Interpretation: [Bill Evans, "Like Someone in Love"](https://www.youtube.com/watch?v=QFoapxPvZy4&list=RDQFoapxPvZy4&start_radio=1)_
 
-I listened to the song (four or five times) and interpreted the cadences of the melody, and how the song made me feel on an emotional level with an abstracted line graph over the course of the length of the song. I expressed the melody and how it made me feel; how I interpret the melody in terms of movement and rhythm. I also incorporated rhythm by illustrating the song not only with the line drawings but also with the texture of the line. Looking closely you can see some of the silver glitter paint is actually drawn with dots to emphasize and accent the rhythm. I wanted to illustrate the song through a fashion-like aesthetic, to express the melody as a pattern that you might find on a textile or a textile art, which is why I covered the posterboard in fabric and fabric paint. 
+I listened to the song (four or five times) and interpreted the cadences of the melody, and how the song made me feel on an emotional level with an abstracted line graph over the course of the length of the song. I expressed the melody and how it made me feel; how I interpret the melody in terms of movement and rhythm. 
+
+
+![img](img/billevans4.jpeg)
+
+I also incorporated rhythm by illustrating the song not only with the line drawings but also with the texture of the line. Looking closely you can see some of the silver glitter paint is actually drawn with dots to emphasize and accent the rhythm. 
+
+![img](img/billevans4.jpeg)
+
+I wanted to illustrate the song through fabric for a fashion-like aesthetic, to express the melody as a pattern found somewhere that it normally wouldn't be. 
+
+![img](img/billevans1.jpeg)
 
 I enjoyed making it more abstract and trying to emphasize the rhythm and melody with multiple colors. I'd like to try it again with other songs, genre's of music, and/or songs with more instruments. I especially like the approach used by Stuart Davis in his jazz paintings of illustrating the rhythm and expression of different instruments in a song with different colors. I like the concept of a multicolored paintingwhich expresses a song's instruments as a visual collage. 
 
@@ -49,6 +64,8 @@ I am very interested in this notion of rhythm, movement, and accents expressed v
 I also learned about the concept of "Gesamtkunstwerk", in this article, relating to how Novak aims to express art which unifies the senses. Gesamtkunstwerk is a German word literally translated as "a total artwork"; it is a work of art that makes use of all or many art forms or strives to do so. Wagner, the 19th century German composer and opera creator coined the term in his description of opera as the ultimate artform because it allowed for a use of theater, literature, music, and set design, and he wanted a word to convey his thoughts on how important this was. (Source: https://www.sartle.com/blog/post/word-of-art-gesamtkunstwerk)
  
 The concept of Gesamtkunstwerk aims to reconnect the senses and unify experience to arrive at some kind of "transcendence", explains Minissale. He also references a "well-known study of six jazz pianists by Limb and Braun" which discovered that "when musicians improvise and create spontaneous musical passages their brains’ highly conscious analytical and rational planning areas associated with the ‘executive’ system are deactivated. Limb and Braun suggest that this deactivation “may be associated with defocused, free-floating attention that permits spontaneous unplanned associations and sudden insights or realizations…to arrive at a solution without reasoning.” And this deactivation, they report, is also _*‘responsible for altered states of consciousness such as hypnosis, meditation or even daydreaming’.*_
+
+
 
 
 
