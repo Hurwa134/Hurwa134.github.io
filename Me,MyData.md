@@ -41,7 +41,7 @@ Stuart Davis was one of the first American artists to consider jazz and swing to
 
 He worked with the idea of combining the senses and incorporating the movement and rhythm of jazz into his visual work. 
 
-### *Susan Novak*
+### *Shannon Novak*
 
 According to art historian Gregory Minissale in his article [_Topoligcal Diagrams_](http://drainmag.com/topological-diagrams/?fbclid=IwAR1Fv1jNcyFHHbj4PyOaplEag5D6UK8aYpgJntMUtHW0yjzZCUyVRXCU9jE) on Novak's installation _The Expanded Gallery, 2017_, "accents create rhythmic pulse patterns in the kinaesthetics experienced by the viewer captured within the language of architecture. The diagram does not represent but helps to produce complex rhythms across brain, body and world."  
 
@@ -52,19 +52,32 @@ Shannon Novak, _Arrhythmia, 2017_
 
 ![img](img/ShannonNovak2.jpeg)
 
-I especially love the use of stained glass to create this work, as that touches on the aspect of spirituality or "altered consciousness", which I would love to incorporate into my project. Additionally, Novak references her work as a musician in addition to being a visual artist. She is a classically trained pianist and she discusses how synesthesia influences both her playing and her visual art. The angles and flashes of color in Novak's piece are described by Minissale as punctuations of rhythm, like those in jazz.
+I especially love the use of stained glass to create this work, as that touches on the aspect of spirituality or "altered consciousness", which I would love to incorporate into my project. Additionally, Novak references his work as a musician in addition to being a visual artist. He is a pianist and discusses how synesthesia influences both his playing and visual art. The angles and flashes of color in Novak's piece are described by Minissale as punctuations of rhythm, like those in jazz.
 
 Minissale also mentions mirror-neurons in this article, "...Novak’s geometric compositions also stimulate edge detection, mirror neurons, mental shape rotation, vertical and horizontal thrusts, chromatic salience and various tensions in figure-ground ambiguities – all of which do not simply function as tools for identifying an image _*...the complexity of audio-visual rhythm arises both as itself and abstract over and above any consideration of melody, motif or story."*_
 
-I am very interested in this notion of rhythm, movement, and "punctuated accents" like those in music expressed visually. Novak has said of her work _"I aim to create worlds that bring the senses closer together."_ 
+I am very interested in this notion of rhythm, movement, and "punctuated accents" like those in music expressed visually. Novak has said of his work _"I aim to create worlds that bring the senses closer together."_ 
 
-She designed the stain-glass architectural pieces in tandem with a piano performance she did in the location - creating a sort of "set design", or theater of visual art around her music performance, which expresses her synesthesia.
+He designed the stain-glass architectural pieces in tandem with a piano performance he also did in the location - creating a sort of "set design", or theater of visual art around the music performance, which expresses synesthesia.
 
 I also learned about the term "Gesamtkunstwerk", which is referenced in this article, relating to how Novak aims to express art which unifies the senses. 
 
-Gesamtkunstwerk is a German word literally translated as "a total artwork"; it is a work that makes use of all or many art forms or strives to do so. Wagner, the 19th century German composer coined the term as a description of the opera being the ultimate artform as it combined theater, literature, music, and set design.(Source: https://www.sartle.com/blog/post/word-of-art-gesamtkunstwerk)
+Gesamtkunstwerk is a German word literally translated as "a total artwork"; it is a work that makes use of all or many art forms or strives to do so. Wagner, the 19th century German composer coined the term as a description of the opera being the ultimate artform as it combined theater, literature, music, and set design.
  
 The concept of Gesamtkunstwerk aims to reconnect the senses and unify experience to arrive at some kind of "transcendence", explains Minissale. He also references a "well-known study of six jazz pianists by Limb and Braun" which discovered that "when musicians improvise and create spontaneous musical passages their brains’ highly conscious analytical and rational planning areas associated with the ‘executive’ system are deactivated. Limb and Braun suggest that this deactivation “may be associated with defocused, free-floating attention that permits spontaneous unplanned associations and sudden insights or realizations…to arrive at a solution without reasoning.” And this deactivation, they report, is also _*‘responsible for altered states of consciousness such as hypnosis, meditation or even daydreaming’.*_
+
+I am very inspired by the work of[Shannon Novak](http://www.shannonnovak.com/works). He explores synesthesia and the connection between visuals and music often in his work, and I find it very striking.
+
+![img](img/ShannonNovak3.jpeg)
+_Bound installation_ by Shannon Novak 
+
+![img](img/Kandisnky1.jpeg)
+_Kandinsky – Im Schwarzen Viereck_
+
+![img](img/Kandisnky2.jpeg)
+_Kandinsky – Kleine Freuden_
+
+
 
 
 
