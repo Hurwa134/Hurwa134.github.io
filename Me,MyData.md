@@ -3,8 +3,7 @@
 
 ## My Data Visualizations
 
-
-*Postcard* 
+### *Postcard* 
 
 ![img](img/data1.jpeg)
 _My averaged music listening habits (Over a 24 hour period)_
@@ -14,7 +13,7 @@ I mapped the times that I wanted to listen to music throughout a day. I found th
 I also tried to map out when I was inspired by color/visuals during the day, in a musical sense. For example, when I saw a bright bouquet of flowers at the farmers market, I noticed I felt musically inspired. I came to the conclusion that it would make sense for me to document these moments of color-induced-musical-inspiration at an art gallery or museum.
 
 
-*Poster*
+### *Poster*
 
 ![img](img/billevans5.jpeg)
 _Visual Interpretation: [Bill Evans, "Like Someone in Love"](https://www.youtube.com/watch?v=QFoapxPvZy4&list=RDQFoapxPvZy4&start_radio=1)_
