@@ -19,7 +19,7 @@ _Visual Interpretation: [Bill Evans, "Like Someone in Love"](https://www.youtube
 
 I listened to the song (four or five times) and interpreted the cadences of the melody, and how the song made me feel on an emotional level with an abstracted line graph over the course of the length of the song. I expressed the melody and how it made me feel; how I interpret the melody in terms of movement and rhythm. 
 
-I also incorporated rhythm by illustrating the song not only with the line drawings but also with the texture of the line. Looking closely you can see some of the silver glitter paint is actually drawn with dots to emphasize and accent the rhythm. 
+I also incorporated rhythm by illustrating the song with the texture of the line. Looking closely you see some of the silver glitter paint is actually drawn with dots to emphasize and accent the rhythm. 
 
 ![img](img/billevans4.jpeg)
 
