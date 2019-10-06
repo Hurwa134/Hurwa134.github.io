@@ -8,7 +8,7 @@
 ![img](img/DATA.jpeg)
 _My averaged music listening habits (Over a 24 hour period)_
 
-I mapped the times that I wanted to listen to music throughout a day. I found that I wanted to all the time, or at least, whenever I thought of it so I made notes when listening to music came to mind. I also used my Spotify user data, which shows my listening habits over a typical 24 hour period, based on my aggregate music-streaming data over the past year. I drew a line graph on posterboard the size of a postcard which I covered in black fabric. I drew on the fabric with glitter glue and fabric paint and indicated time of day with Roman numerals. 
+I mapped the times of day when I most thought about music or wanted to listen to it. My Spotify data shows my listening times over a typical 24 hour period based on my aggregate music-streaming habits over the past year. I drew a line graph based on this data on posterboard the size of a postcard which I covered in black fabric. I drew on the fabric with glitter glue and fabric paint and indicated times of day with Roman numerals. 
 
 I also tried to map out when I was inspired by color/visuals during the day, in a musical sense. For example, when I saw a bright bouquet of flowers at the farmers market, I noticed I felt musically inspired. I came to the conclusion that it would make sense for me to document these moments of color-induced-musical-inspiration at an art gallery or museum.
 
