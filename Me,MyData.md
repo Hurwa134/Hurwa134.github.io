@@ -7,6 +7,7 @@
 The artist was one of the first to consider jazz and swing music in conjunction with painting. His use of bright, pulsating colors, expressive lines, and repetitious shapes creates a visual rhythm in his paintings similar to the syncopation and improvisation of jazz music.
 
 ![img](img/StuartDavis1.jpeg)
+
 Hot Still-Scape for Six Colors - 7th Avenue Style (1940)
 
 Stuart Davis was one of the first American artists to consider jazz and swing to be musical counterparts to abstract art. This painting, with its energetic shapes and Miro-esque squiggly lines buoyed by a vibrant color palette of red, black, white, yellow, orange, and blue, exemplifies this sensorial connection. Davis explained, "[It] is called Hot [a jazz term] because of its dynamic mood" akin to the energy and improvisation in jazz music. The six colors "are used as the instruments in a musical composition might be, where the tone-color variety results from the simultaneous juxtaposition of different instrument groups." 
@@ -21,6 +22,7 @@ Shannon Novak’s installation The Expanded Gallery at the Dunedin Public Art Ga
 He describes a kind of "celestial physics" which has "come down to earth in the form of music" and which "continues to pattern the imagination and various artistic practices that snag its rhythms and proportions." He describes rhythm itself as more fundamental than music, saying that it travels and is translated by the senses into musicality. 
 
 ![img](img/ShannonNovak1.jpeg)
+
 Shannon Novak, Arrhythmia, 2017
 
 ![img](img/ShannonNovak2.jpeg)
@@ -46,7 +48,7 @@ I mapped the times that I wanted to listen to music throughout a day - but I fou
 
 *Poster*
 
-I listened to a song (several times, I thnk four or five times) and interpreted the rises/and falls of the cadence melody, and how the song made me feel on an emotional level with a line graph over the course of the length of the song. I expressed the left hand melody of the piano , the right hand melody, and just generally how it made me feel in relation to the intensity and movement of the melody. I also incorporated rhythm and tried to illustrate that not only with the line drawings but also with the texture of the line, so if you look closely, you'll see that some of the silver glitter paint is actually drawn with dots which accent the rhythm. I was also trying to use more of a clothing, or fashion aesthetic to express the melody as a pattern that you might find on a textile or a textile art. I actually really liked how it looked with it was just a single silver line, but I enjoyed making it more abstract and trying to emphasize the rhythm with multiple colors. I'd like to try it again with other songs, genre's of music, and/or songs with more instruments. I especially like the approach used by Stuart Davis in his jazz paintings of illustrating the rhythm and expression of different instruments with different colors, to show their unification in a painting of many colors - just as they unite in a song to create collage of sounds. 
+I listened to a song (four or five times) and interpreted the rises/and falls of the cadences of the melody, and how the song made me feel on an emotional level with a line graph over the course of the length of the song. I expressed the melody andjust generally how it made me feel in relation to the intensity and movement of the melody. I also incorporated rhythm and tried to illustrate that not only with the line drawings but also with the texture of the line, so if you look closely, you'll see that some of the silver glitter paint is actually drawn with dots which accent the rhythm. I was also trying to use more of a clothing, or fashion aesthetic to express the melody as a pattern that you might find on a textile or a textile art. I actually really liked how it looked with it was just a single silver line, but I enjoyed making it more abstract and trying to emphasize the rhythm with multiple colors. I'd like to try it again with other songs, genre's of music, and/or songs with more instruments. I especially like the approach used by Stuart Davis in his jazz paintings of illustrating the rhythm and expression of different instruments with different colors, to show their unification in a painting of many colors - just as they unite in a song to create collage of sounds. 
 
 
 
