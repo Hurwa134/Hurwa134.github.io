@@ -43,7 +43,7 @@ He worked with the idea of combining the senses and incorporating the movement a
 
 ### *Susan Novak*
 
-According to art historian Gregory Minissale in his article [_Topoligcal Diagrams_](http://drainmag.com/topological-diagrams/?fbclid=IwAR1Fv1jNcyFHHbj4PyOaplEag5D6UK8aYpgJntMUtHW0yjzZCUyVRXCU9jE) on Novak's installation _The Expanded Gallery, 2017_, "Accents create rhythmic pulse patterns in the kinaesthetics experienced by the viewer captured within the language of architecture. The diagram does not represent but helps to produce complex rhythms across brain, body and world."  
+According to art historian Gregory Minissale in his article [_Topoligcal Diagrams_](http://drainmag.com/topological-diagrams/?fbclid=IwAR1Fv1jNcyFHHbj4PyOaplEag5D6UK8aYpgJntMUtHW0yjzZCUyVRXCU9jE) on Novak's installation _The Expanded Gallery, 2017_, "accents create rhythmic pulse patterns in the kinaesthetics experienced by the viewer captured within the language of architecture. The diagram does not represent but helps to produce complex rhythms across brain, body and world."  
 
 He describes a kind of "celestial physics" which has "come down to earth in the form of music" and which "continues to pattern the imagination and various artistic practices that snag its rhythms and proportions." He describes rhythm itself as more fundamental than music, saying that it travels and is translated by the senses into musicality. 
 
