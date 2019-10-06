@@ -1,6 +1,21 @@
 
 # Me, My Data
 
+##My Data Visualizations
+
+
+*Postcard* 
+
+I mapped the times that I wanted to listen to music throughout a day - but I found that it felt sort of like I wanted to all the time, so whenever I thought of it, I wrote it down. I pulled up Spotify user data for the past year which shows my listening habits, aggregatted based on my music-streaming use over the past year, to show my average music listening habits over the course of 24 hrs. I drew a somewhat abstracted graph on posterboard coveredin black fabric with glitter glue and fabric paint. (I indicated the times of day only with Roman numerals rather than am/pm.) I also tried to map when I was inspired by color in a musical sense throughout a day. For example, when I saw a bright bouquet of flowers at the farmers market, I noticed I felt musically inspired. I came to the conclusion that it would make more sense for me to document these moments of color-induced-musical-inspiration if I go to an art gallery or museum.
+
+
+*Poster*
+
+_Visual Interpretation: [Bill Evans, "Like Someone in Love"](https://www.youtube.com/watch?v=QFoapxPvZy4&list=RDQFoapxPvZy4&start_radio=1)_
+
+I listened to a song (four or five times) and interpreted the rises/and falls of the cadences of the melody, and how the song made me feel on an emotional level with a line graph over the course of the length of the song. I expressed the melody andjust generally how it made me feel in relation to the intensity and movement of the melody. I also incorporated rhythm and tried to illustrate that not only with the line drawings but also with the texture of the line, so if you look closely, you'll see that some of the silver glitter paint is actually drawn with dots which accent the rhythm. I was also trying to use more of a clothing, or fashion aesthetic to express the melody as a pattern that you might find on a textile or a textile art. I actually really liked how it looked with it was just a single silver line, but I enjoyed making it more abstract and trying to emphasize the rhythm with multiple colors. I'd like to try it again with other songs, genre's of music, and/or songs with more instruments. I especially like the approach used by Stuart Davis in his jazz paintings of illustrating the rhythm and expression of different instruments with different colors, to show their unification in a painting of many colors - just as they unite in a song to create collage of sounds. 
+
+
 ## Inspiration
 
 ### *Stuart Davis*
@@ -8,7 +23,7 @@ The artist was one of the first to consider jazz and swing music in conjunction 
 
 ![img](img/StuartDavis1.jpeg)
 
-Hot Still-Scape for Six Colors - 7th Avenue Style (1940)
+_Hot Still-Scape for Six Colors - 7th Avenue Style (1940)_
 
 Stuart Davis was one of the first American artists to consider jazz and swing to be musical counterparts to abstract art. This painting, with its energetic shapes and Miro-esque squiggly lines buoyed by a vibrant color palette of red, black, white, yellow, orange, and blue, exemplifies this sensorial connection. Davis explained, "[It] is called Hot [a jazz term] because of its dynamic mood" akin to the energy and improvisation in jazz music. The six colors "are used as the instruments in a musical composition might be, where the tone-color variety results from the simultaneous juxtaposition of different instrument groups." 
 
@@ -23,7 +38,7 @@ He describes a kind of "celestial physics" which has "come down to earth in the 
 
 ![img](img/ShannonNovak1.jpeg)
 
-Shannon Novak, Arrhythmia, 2017
+Shannon Novak, _Arrhythmia, 2017_
 
 ![img](img/ShannonNovak2.jpeg)
 
@@ -37,18 +52,6 @@ I also learned about the concept of "Gesamtkunstwerk", in this article, as Novak
 
 Minissale also sights a "well-known study of six jazz pianists by Limb and Braun" which discovered that "when musicians improvise and create spontaneous musical passages their brains’ highly conscious analytical and rational planning areas associated with the ‘executive’ system are deactivated. Limb and Braun suggest that this deactivation “may be associated with defocused, free-floating attention that permits spontaneous unplanned associations and sudden insights or realizations…to arrive at a solution without reasoning.” And this deactivation, they report, is also *‘responsible for altered states of consciousness such as hypnosis, meditation or even daydreaming’.*
 
-##My Data Visualizations
-
-
-*Postcard* 
-
-I mapped the times that I wanted to listen to music throughout a day - but I found that it felt sort of like I wanted to all the time, so whenever I thought of it, I wrote it down. I pulled up Spotify user data for the past year which shows my listening habits, aggregatted based on my music-streaming use over the past year, to show my average music listening habits over the course of 24 hrs. I drew a somewhat abstracted graph on posterboard coveredin black fabric with glitter glue and fabric paint. (I indicated the times of day only with Roman numerals rather than am/pm.) I also tried to map when I was inspired by color in a musical sense throughout a day. For example, when I saw a bright bouquet of flowers at the farmers market, I noticed I felt musically inspired. I came to the conclusion that it would make more sense for me to document these moments of color-induced-musical-inspiration if I go to an art gallery or museum.
-
-
-
-*Poster*
-
-I listened to a song (four or five times) and interpreted the rises/and falls of the cadences of the melody, and how the song made me feel on an emotional level with a line graph over the course of the length of the song. I expressed the melody andjust generally how it made me feel in relation to the intensity and movement of the melody. I also incorporated rhythm and tried to illustrate that not only with the line drawings but also with the texture of the line, so if you look closely, you'll see that some of the silver glitter paint is actually drawn with dots which accent the rhythm. I was also trying to use more of a clothing, or fashion aesthetic to express the melody as a pattern that you might find on a textile or a textile art. I actually really liked how it looked with it was just a single silver line, but I enjoyed making it more abstract and trying to emphasize the rhythm with multiple colors. I'd like to try it again with other songs, genre's of music, and/or songs with more instruments. I especially like the approach used by Stuart Davis in his jazz paintings of illustrating the rhythm and expression of different instruments with different colors, to show their unification in a painting of many colors - just as they unite in a song to create collage of sounds. 
 
 
 
