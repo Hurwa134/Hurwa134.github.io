@@ -71,10 +71,10 @@ I am very inspired by the work of [Shannon Novak](http://www.shannonnovak.com/wo
 ![img](img/ShannonNovak3.jpeg)
 _Bound installation_ by Shannon Novak 
 
-![img](img/Kandisnky1.jpeg)
+![img](img/Kandinsky1.jpeg)
 _Kandinsky – Im Schwarzen Viereck_
 
-![img](img/Kandisnky2.jpeg)
+![img](img/Kandinsky2.jpeg)
 _Kandinsky – Kleine Freuden_
 
 
