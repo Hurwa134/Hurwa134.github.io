@@ -68,9 +68,6 @@ The concept of Gesamtkunstwerk aims to reconnect the senses and unify experience
 
 I am very inspired by the work of [Shannon Novak](http://www.shannonnovak.com/works). He explores synesthesia and the connection between visuals and music often in his work.
 
-![img](img/ShannonNovak3.jpeg)
-_Bound_ by Novak 
-
 Novak also pays homage to Kandinsky, who I learned had synesthesia as well. 
 
 ![img](img/Kandinsky1.jpeg)
@@ -78,6 +75,8 @@ _Kandinsky – Im Schwarzen Viereck_
 
 ![img](img/Kandinsky2.jpeg)
 _Kandinsky – Kleine Freuden_
+
+
 
 
 
