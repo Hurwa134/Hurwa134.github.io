@@ -66,10 +66,10 @@ Gesamtkunstwerk is a German word literally translated as "a total artwork"; it i
  
 The concept of Gesamtkunstwerk aims to reconnect the senses and unify experience to arrive at some kind of "transcendence", explains Minissale. He also references a "well-known study of six jazz pianists by Limb and Braun" which discovered that "when musicians improvise and create spontaneous musical passages their brains’ highly conscious analytical and rational planning areas associated with the ‘executive’ system are deactivated. Limb and Braun suggest that this deactivation “may be associated with defocused, free-floating attention that permits spontaneous unplanned associations and sudden insights or realizations…to arrive at a solution without reasoning.” And this deactivation, they report, is also _*‘responsible for altered states of consciousness such as hypnosis, meditation or even daydreaming’.*_
 
-I am very inspired by the work of [Shannon Novak](http://www.shannonnovak.com/works). He explores synesthesia and the connection between visuals and music often in his work, and I find it very striking.
+I am very inspired by the work of [Shannon Novak](http://www.shannonnovak.com/works). He explores synesthesia and the connection between visuals and music often in his work.
 
 ![img](img/ShannonNovak3.jpeg)
-_Bound installation_ by Shannon Novak 
+_Bound_ by Shannon Novak 
 
 Novak also pays homage to Kandinsky, who I learned had synesthesia as well. 
 
