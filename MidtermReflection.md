@@ -7,7 +7,7 @@ The feedback I received regarding my research question and Midterm presentation 
 
 Going back to my research questions, they are: 
 
-*Broad Question: How do music and color affect emotion?*
+**Broad Question: How do music and color affect emotion?**
 
 **Specific Question: How can I express the ethereal/spiritual nature of music?**
 
