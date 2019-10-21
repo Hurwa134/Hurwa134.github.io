@@ -37,15 +37,15 @@ I absolutely want to follow/continue to follow the thread of surrealism which I 
 
 I was also happy to see that Fluxus was also compared to the Futurists (first movement) – specifically in the Futurists creation of “total works of art.” Gesamtkunstwerk or “total artwork”, is a term that continuously came up for me leading up to my midterm presentation. I am particularly interested in a “total artwork.” 
 
-*“While best known for a dynamic style in painting and sculpture that captured speed and movement as if in time-lapse, Futurist artists created “total works of art”(performance, installation, fashion, and more).”*
+**“While best known for a dynamic style in painting and sculpture that captured speed and movement as if in time-lapse, Futurist artists created “total works of art”(performance, installation, fashion, and more).”**
 -[Artsy.net, Futurism](https://www.artsy.net/gene/futurism)
 
 I also loved that the Fluxus movement’s output is described as “informal, spontaneous, and often ephemeral pieces…” as one of the aspects of music I want to try to express is its ephemeral nature, just as much as it is “spiritual” or otherworldly. I think that this ties into surrealism well, and I’m excited to delve into it further. I think that I have an interesting research question, and I think it could go in many different directions. I do want to keep it closely related to the concepts of color, emotion, and memories as those are themes/aspects that I think are important to this exploration. I’ve definitely concluded that my project should be subjective to my own experience/expression, and I loved the feedback about receiving something specific from the audience in return. I have never considered that, and it certainly gives me something to think about. Off the top of my head, I would say that what I would hope to receive from the audience in return would be a genuine, emotional experience, and maybe some kind of similarly genuine, emotional response. 
 
 Other aspects I want to touch on in my project include: 
 
-_Romanticism (emphasis on the senses, emotions) via a multi-modal work (Audio/visual/other) and uniting the senses._ 
+**_Romanticism (emphasis on the senses, emotions) via a multi-modal work (Audio/visual/other) and uniting the senses._** 
 
-I want to consider the question, also, of: How can a composition of frequencies, audio/visual effect how I feel?
+**I want to consider the question, also, of: How can a composition of frequencies, audio/visual effect how I feel?**
 
 I think looking at the surrealists, the futurists, and Dada, as well as the Fluxus movement gives me a really good foundation for further exploring my research question and these ideas. 
