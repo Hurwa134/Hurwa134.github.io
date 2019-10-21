@@ -11,3 +11,5 @@
 [Final Project: Research Questions](ResearchQuestions.md)
 
 [Final Project: Me, My Data](Me,MyData.md)
+
+[Final Project: Midterm Reflection](MidtermReflection.md)
