@@ -7,9 +7,9 @@ The feedback I received regarding my research question and Midterm presentation 
 
 Going back to my research questions, they are: 
 
-_Broad Question: How do music and color affect emotion?_ 
+*Broad Question: How do music and color affect emotion?*
 
-_Specific Question: How can I express the ethereal/spiritual nature of music?_
+**Specific Question: How can I express the ethereal/spiritual nature of music?**
 
 Looking into the Fluxus movement and its artists, I immediately felt like it resonated closely with me. For example, reading about the history of Fluxus, I came across this explanation:
 
