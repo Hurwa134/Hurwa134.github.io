@@ -10,7 +10,7 @@
 
 For the Seven in Seven project, I intend to do a guitar meditation each day, and create some kind of visual experience to accompany each guitar session. Playing guitar as a meditation every day, for seven days in a row, is my way of showing what it would be like if music were a religion to me.  In this way, I am considering my meditation/guitar sessions to be my prayers.
 
-I am inspired by the concept of Wabi-Sabi, or imperfect beauty. Something that holds me back from practicing guitar (something I love) has been my perfectionism. If I make mistakes during my meditation music it's imperfect beauty, and I won't judge it. 
+I am definitely very inspired by the philosophy of Wabi-Sabi, or imperfect beauty. I am also curious about Kintsugi, which is the Japanese concept that broken things are more beautiful/like a piece of pottery with a crack that has been filled with gold, it is more beautiful having been broken. If I make mistakes during my meditation music it's imperfect beauty, and I won't judge it. I also think the approach of free-styling or improvisation is very similar to doing yoga, or other spiritual practices.
 
 ### Musical Prayer
 
@@ -37,6 +37,6 @@ I like the idea of a choreographed "dance" made by the hand mudra shadows to the
 
 If I try this approach again I would definitely like to rent a tripod, because I was having trouble getting the phone/camera balanced in addition to the flash light to free up both of my hands to do the choreography. I also realized that hand mudras are not easy, and I would like to memorize the meanings behind them so that I can more easily free-style a more meaningful choreographed, improvised dance with my hands. It was difficult because I didn't know what they meant or what the correct shapes were so I had to scroll through them on my computer while I recorded, which made it a little less graceful. If I can memorize the hand movements and their meanings and have my hands totally free, I think it could be very graceful and express the ethereal/spiritual nature of the music really well. I like this idea.
 
-The first time I thought of the idea of the spiritual aspect of music that I want to express, during a meditation to music for the observational phase I envisioned "hand movements." I had also envisioned something similar to finger-painting, so if there is a way I can include color in this prototype, like adding a light show/colored projection element, I think that might be really beautiful and expressive. 
+The first time I thought of the idea of the spiritual aspect of music that I want to express, during a meditation to music for the observational phase I envisioned "hand movements." I had also envisioned something similar to finger-painting, so if there is a way I can include color in this prototype, like adding a light show/colored projection element, I think that might be really beautiful and expressive. If there were a way for there to be more of an audience interaction with something like this, I think that would be ideal. 
 
 
