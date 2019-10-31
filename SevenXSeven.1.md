@@ -4,9 +4,9 @@
 
 ### My research questions are: 
 
-_What if music was a religion to me?_
+**What if music was a religion to me?**
  & 
- _How can I express the ethereal/spiritual nature of music?_ 
+ **How can I express the ethereal/spiritual nature of music?** 
 
 For the Seven in Seven project, I intend to do a guitar meditation each day, and create some kind of visual experience to accompany each guitar session. Playing guitar as a meditation every day, for seven days in a row, is my way of showing what it would be like if music were a religion to me.  In this way, I am considering my meditation/guitar sessions to be my prayers.
 
