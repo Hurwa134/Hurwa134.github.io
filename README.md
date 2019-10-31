@@ -13,3 +13,5 @@
 [Final Project: Me, My Data](Me,MyData.md)
 
 [Final Project: Midterm Reflection](MidtermReflection.md)
+
+[Seven in Seven: Day 1](SevenXSeven.md)
