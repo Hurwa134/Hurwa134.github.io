@@ -14,4 +14,4 @@
 
 [Final Project: Midterm Reflection](MidtermReflection.md)
 
-[Seven in Seven: Day 1](SevenXSeven.md)
+[Seven in Seven: Day 1](SevenXSeven.1.md)
