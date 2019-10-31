@@ -10,9 +10,11 @@ For the Seven in Seven project, I intend to do a guitar meditation each day, and
 
 I am inspired by the concept of Wabi-Sabi, or imperfect beauty. Something that holds me back from practicing guitar (something I love) has been my perfectionism. If I make mistakes during my meditation music it's imperfect beauty, and I won't judge it. 
 
-Day One guitar meditation Video ( )
+[Day One Guitar Meditation Video](https://vimeo.com/370009162 )
 
 Accompanying visuals:
+
+[Day One Visuals - Hand Mudra Shadow Improvisation](. )
 
 Each guitar session as prayer through music could inspire different visual art or an accompanying experience or interaction. 
 
