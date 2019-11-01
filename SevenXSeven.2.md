@@ -30,6 +30,17 @@ I found the symbol of the lotus flower, which represents purity, and spiritualit
 
 Since I was thinking about my ancestors and relatives who I feel spiritually connected to during my meditation, I drew angel wings to represent them and cut them out of paper as well. 
 
+
+![img](img/cutout1.HEIC)
+
+![img](img/cutout2.HEIC)
+
+![img](img/cutout3.HEIC)
+
+![img](img/cutout4.HEIC)
+
+![img](img/cutout5.HEIC)
+
 I think there are many symbols that represent spirituality, and the rituals of this holiday, Halloween, which could all be included but I thought a few simple shapes would be good to start to test the prototype idea. 
 
 I read about the concept of Visual Music [Heard of Visual Music?](https://www.wired.com/2011/05/visual-music-paul-prudence/) which is something that was coined by a historian discussing Kandinsky's paintings. I found an early female animator named Mary Ellen Bute, who coined a specific kind of Visual Music and created abstract films and animations to illustrate music visually. 
