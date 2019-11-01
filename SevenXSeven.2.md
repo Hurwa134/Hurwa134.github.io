@@ -6,7 +6,7 @@ Testing the function and look and feel of day two guitar meditation/prayer. I cr
 
 ### How I approached my Second Prototype
 
-I did another guitar playing session as a prayer/meditation. However, I was feeling very sick and like I had a fever, and I was frustrated with my playing. I could tell that my state of mind was reflected in my playing, it had a more agitated, less calm quality. I focused on praying and what I thought about was that it is Halloween, or Samhein. This is the night that the "veil" is supposed to be lifted between the waking life and what we can't see, according to the lore. It also made me think about the idea of the Day of the Dead, and the idea of being able to communicate with your ancestors spiritually. I thought of my grandmother's who I never got to meet, who I believe watch over me. I wondered if in my prayer through music on Halloween I could connect with them better. 
+I did another guitar playing session as a prayer/meditation. However, I was feeling very sick and like I had a fever, and I was frustrated with my playing. I could tell that my state of mind was reflected in my playing, it had a more agitated, less calm quality. I focused on praying and what I thought about was that it is Halloween, or Samhein. This is the night that the "veil" is supposed to be lifted between the waking life and what we can't see, according to the lore. It also made me think about the idea of the Day of the Dead, and the idea of being able to communicate with your ancestors spiritually. I thought of my grandmothers who I never got to meet, who I believe watch over me. I wondered if in my prayer through music on Halloween I could connect with them better. 
 
 I didn't feel well and was exasperated with my playing (it feels like I've forgotten how to play, I used to be so much better). What I rememered is that this exercise is like yoga, or a practice in the Wabi-Sabi philosphy - that there is beauty in imperfection. 
 
@@ -18,7 +18,7 @@ When I played I tried to think about what imagery would accompany this meditatio
 
 ### Accompanying visuals, Day #2:
 
-[Day Two Visuals - Spiritual Symbols on Paper](https://www.youtube.com/watch?v=KJ63vhV7CMo)
+[Day Two Visuals - Spiritual Symbols on Paper](https://www.youtube.com/watch?v=zVY_mZ1hBm4)
 
 Continuing with the idea of each guitar session as prayer through music inspiring a different visual art or an accompanying experience or interaction, I tried to think of spiritual symbols. I wanted first to include ghosts or spirits. I also wanted to include some kind of veil that could be lifted, like lifting a bridal veil on film, or lifting fabric to symbolize the "lifting of the veil" that seperates the "spiritual" world on Halloween according to legend. I wasn't sure how to illustrate that.
 
