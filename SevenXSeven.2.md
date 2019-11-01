@@ -48,7 +48,7 @@ I read about the concept of Visual Music [Heard of Visual Music?](https://www.wi
 
 I found one of her films called *Spook Sport*, from 1940, which involved cut outs of ghosts. She also used light and paintings to illustrate music in a sort of "animated ballet" of visual music. 
 
-"Mary Ellen made her own first film, *Rhythm in Light* , together with Melville Webber, who had collaborated with James Watson on two classic live-action experimental films, *The Fall of the House of Usher (1928)* and *Lot in Sodom (1933).* Webber contributed his experience on those films with making models of paper and cardboard and filming them through such things as mirrors and a cut-glass ashtray to get multiple parallel reflections of the shape."
+"Mary Ellen made her own first film, Rhythm in Light , together with Melville Webber, who had collaborated with James Watson on two classic live-action experimental films, The Fall of the House of Usher (1928) and Lot in Sodom (1933). Webber contributed his experience on those films with making models of paper and cardboard and filming them through such things as mirrors and a cut-glass ashtray to get multiple parallel reflections of the shape."
 Source: [Mary Ellen Bute, Seeing Sound](https://www.awn.com/mag/issue1.2/articles1.2/moritz1.2.html)
 
 I found this to be a really inspiring idea, and all of Mary Ellen's work really resonates with me. I decided to try to create a similar visual effect by filming the paper cut outs of the spiritual symbols reflected in a mirror. I also used irridescent colored cellophane to cover the lense of my iPhone camera and also to cover the flashlight which I placed underneath the paper symbols. 
