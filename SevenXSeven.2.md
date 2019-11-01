@@ -10,7 +10,7 @@ I did another guitar playing session as a prayer/meditation. However, I was feel
 
 I focused on praying/meditating and what came to mind was that it is Halloween, or Samhain (Celtic). I do have some Celtic roots, so maybe this holiday is more important to me than I thought. This is the night that the "veil" is supposed to be lifted between the waking life and what we can't see, according to the lore. It also made me think about the idea of the Day of the Dead, and the idea of being able to communicate with your ancestors spiritually. I thought of my grandmothers who I never got to meet, who I believe watch over me. I wondered if in my prayer through music on Halloween I could connect with them better. 
 
-I was feeling really ill and wasn't playing well, and felt exasperated with my guitar playing (it feels like I've forgotten how to play, or like my fingers don't do what I want them to. I used to practice all the time, and it feels like I'm so rusty.) What I remembered is that this exercise is like yoga, or a practice in the Wabi-Sabi philosphy - that there is beauty in imperfection. 
+I was feeling really ill and wasn't playing well, and felt exasperated with my guitar playing (it feels like I've forgotten how to play, or like my fingers don't do what I want them to. I used to practice all the time, and it feels like I'm so rusty.) What I remembered is that this exercise is like yoga, or a practice in the Wabi-Sabi philosophy - that there is beauty in imperfection. 
 
 When I played I tried to think about what imagery would accompany this meditation/prayer playing session. I wanted to incorporate Halloween or Samhein because I was thinking about that and the idea of spirits and ancestors. 
 
@@ -24,7 +24,7 @@ When I played I tried to think about what imagery would accompany this meditatio
 
 Continuing with the idea of each guitar session as prayer through music inspiring a different visual art or an accompanying experience or interaction, I tried to think of spiritual symbols. I wanted first to include ghosts or spirits. I also wanted to include some kind of veil that could be lifted, like lifting a bridal veil on film, or lifting fabric to symbolize the "lifting of the veil" that seperates the "spiritual" world on Halloween according to legend. I wasn't sure how to illustrate that.
 
-I looked up celtic symbols related to Samhein, and symbols related to Halloween but I wanted to stay closer to symbols that are meaningful to me personally and which remind me of my prayer or meditation. I think the symbolism in paganism and celtic lore, and the metaphor of the veil could be really interesting to incorporate visually however. 
+I looked up Celtic symbols related to Samhain, and symbols related to Halloween but I wanted to stay closer to symbols that are meaningful to me personally and which remind me of my prayer or meditation. I think the symbolism in paganism and celtic lore, and the metaphor of the veil could be really interesting to incorporate visually however. 
 
 I found the symbol of the lotus flower, which represents purity, and spirituality in Buddhism, as well as re-birth. It grows in the deepest muddiest places and is also a symbol of perserverence, like the pheonix. I also learned that different colored lotus flowers have different meanings in Buddhism and Eastern philosophies. The lotus is personally important to me as a symbol of spirituality relating to my yoga practice, so I drew two lotus flowers on white paper and cut them out. 
 
@@ -49,7 +49,7 @@ I read about the concept of Visual Music [Heard of Visual Music?](https://www.wi
 
 I found one of her films called *Spook Sport*, from 1940, which involved cut outs of ghosts. She also used light and paintings to illustrate music in a sort of "animated ballet" of visual music. 
 
-*"Mary Ellen made her own first film, *Rhythm in Light*, together with Melville Webber, who had collaborated with James Watson on two classic live-action experimental films, *The Fall of the House of Usher (1928)* and *Lot in Sodom (1933).* Webber contributed his experience on those films with making models of paper and cardboard and filming them through such things as mirrors and a cut-glass ashtray to get multiple parallel reflections of the shape.*
+**"Mary Ellen made her own first film, *Rhythm in Light*, together with Melville Webber, who had collaborated with James Watson on two classic live-action experimental films, *The Fall of the House of Usher (1928)* and *Lot in Sodom (1933).* Webber contributed his experience on those films with making models of paper and cardboard and filming them through such things as mirrors and a cut-glass ashtray to get multiple parallel reflections of the shape.**
 
 Source: [Mary Ellen Bute, Seeing Sound](https://www.awn.com/mag/issue1.2/articles1.2/moritz1.2.html)
 
