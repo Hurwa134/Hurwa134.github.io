@@ -3,7 +3,7 @@
 ## Day 3. Protype 3
 
 Testing the function,look, and feel of visuals illustrating Day 3 guitar meditation/prayer. 
-Again trying to create "visual music", I used the theme that came to me during the meditation of "home" or "home is where the heart is" to create a video of imagery to accompany the music. I found that there were little houses made of wood, and specifically a lot of bird housese, in the garden I was playing in. I also found artwork and a memorial to an artist/poet/sculptress in the garden and included that as one of my guiding principles was that I wanted the project to be "elegaic" and focus on the ephemeral/transient quality of music.
+Again trying to create "visual music", I used the theme that came to me during the meditation of "home." I was trying to express prayer/meditation as a way to access the feeling of being home, or the feeling of being at home in yourself.
 
 ### How I Approached my Second Prototype
 
