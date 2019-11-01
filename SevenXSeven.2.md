@@ -4,7 +4,7 @@
 
 Testing the function,look, and feel of visuals illustrating Day 2 guitar meditation/prayer. I created spiritual symbols cut out of paper and filmed them in front of a mirror with colored light to illustrate "visual music".
 
-### How I approached my Second Prototype
+### How I Approached my Second Prototype
 
 I did another guitar playing session as a prayer/meditation. However, I was feeling very sick and like I had a fever, and I was frustrated with my playing. I could tell that my state of mind was reflected in my playing, it had a more agitated, less calm quality. I focused on praying and what I thought about was that it is Halloween, or Samhein. This is the night that the "veil" is supposed to be lifted between the waking life and what we can't see, according to the lore. It also made me think about the idea of the Day of the Dead, and the idea of being able to communicate with your ancestors spiritually. I thought of my grandmothers who I never got to meet, who I believe watch over me. I wondered if in my prayer through music on Halloween I could connect with them better. 
 
