@@ -2,7 +2,7 @@
 
 ## Day 2. Protype 2
 
-Testing the function and look and feel of day two guitar meditation/prayer. I created spiritual symbols cut out of paper and filmed them in front of a mirror with colored light to illustrate "visual music.
+Testing the function,look, and feel of visuals illustrating Day 2 guitar meditation/prayer. I created spiritual symbols cut out of paper and filmed them in front of a mirror with colored light to illustrate "visual music".
 
 ### How I approached my Second Prototype
 
