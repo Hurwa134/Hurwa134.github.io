@@ -17,3 +17,5 @@
 [Seven in Seven: Day I](SevenXSeven.1.md)
 
 [Seven in Seven: Day II](SevenXSeven.2.md)
+
+[Seven in Seven: Day III](SevenXSeven.3.md)
