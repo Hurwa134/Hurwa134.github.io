@@ -4,14 +4,6 @@
 
 Testing the function and look and feel of day two guitar meditation/prayer. I created spiritual symbols cut out of paper and filmed them in front of a mirror with colored light to illustrate "visual music.
 
-### My research questions are: 
-
-**What if music was a religion to me?**
-
- & 
-
- **How can I express the ethereal/spiritual nature of music?** 
-
 ### How I approached my Second Prototype
 
 I did another guitar playing session as a prayer/meditation. However, I was feeling very sick and like I had a fever, and I was frustrated with my playing. I could tell that my state of mind was reflected in my playing, it had a more agitated, less calm quality. I focused on praying and what I thought about was that it is Halloween, or Samhein. This is the night that the "veil" is supposed to be lifted between the waking life and what we can't see, according to the lore. It also made me think about the idea of the Day of the Dead, and the idea of being able to communicate with your ancestors spiritually. I thought of my grandmother's who I never got to meet, who I believe watch over me. I wondered if in my prayer through music on Halloween I could connect with them better. 
@@ -50,6 +42,7 @@ Source: [Mary Ellen Bute, Seeing Sound](https://www.awn.com/mag/issue1.2/article
 
 I found this to be a really inspiring idea, and all of Mary Ellen's work really resonates with me. I decided to try to create a similar visual effect by filming the paper cut outs of the spiritual symbols reflected in a mirror. I also used irridescent colored cellophane to cover the lense of my iPhone camera and also to cover the flashlight which I placed underneath the paper symbols. 
 
+Again, I learned that I definitely need to use a tripod and get a better system for filming, with this prototype. My hands also appeared in the video and I think it would be better to use some kind of invisible thread, and I think there could be more interesting ways of creating infinity/illusions with paper and cardboard in mirrors. I would want to try it with more intricate cut outs and also incorporate shadows, and use more spiritual symbols. I would also like to do more of a thought-out, meaningful choreography with the different symbols to accompany the music in an expressive way that has more meaning. I really liked how the irridescent cellophane looked with the white paper, and I think the reflections in the mirror are pretty as well as a good metaphor for the idea of the "spirit world/that which we can't see" and our waking reality. 
 
 
 
