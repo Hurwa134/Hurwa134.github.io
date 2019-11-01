@@ -6,7 +6,9 @@ Testing the function,look, and feel of visuals illustrating Day 2 guitar meditat
 
 ### How I Approached my Second Prototype
 
-I did another guitar playing session as a prayer/meditation. However, I was feeling very sick and like I had a fever, and I was frustrated with my playing. I could tell that my state of mind was reflected in my playing, it had a more agitated, less calm quality. I focused on praying and what I thought about was that it is Halloween, or Samhein. This is the night that the "veil" is supposed to be lifted between the waking life and what we can't see, according to the lore. It also made me think about the idea of the Day of the Dead, and the idea of being able to communicate with your ancestors spiritually. I thought of my grandmothers who I never got to meet, who I believe watch over me. I wondered if in my prayer through music on Halloween I could connect with them better. 
+I did another guitar playing session as a prayer/meditation. However, I was feeling very sick and like I had a fever, and I was frustrated with my playing. I could tell that my state of mind was reflected in my playing, it had a more agitated, less calm quality. 
+
+I focused on praying/meditating and what came to mind was that it is Halloween, or Samhain (Celtic). I do have some Celtic roots, so maybe this holiday is more important to me than I thought. This is the night that the "veil" is supposed to be lifted between the waking life and what we can't see, according to the lore. It also made me think about the idea of the Day of the Dead, and the idea of being able to communicate with your ancestors spiritually. I thought of my grandmothers who I never got to meet, who I believe watch over me. I wondered if in my prayer through music on Halloween I could connect with them better. 
 
 I didn't feel well and was exasperated with my playing (it feels like I've forgotten how to play, I used to be so much better). What I rememered is that this exercise is like yoga, or a practice in the Wabi-Sabi philosphy - that there is beauty in imperfection. 
 
