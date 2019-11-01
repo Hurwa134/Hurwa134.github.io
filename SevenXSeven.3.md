@@ -15,10 +15,22 @@ Again trying to create "visual music", I used the theme that came to me during t
 
 [Day III Guitar Meditation Video]( )
 
-### Accompanying visuals, Day #2:
+### Accompanying visuals, Day #3:
 
-[Day Three Visuals - Spiritual Symbols on Paper]( )
+[Day Three Visuals - Home in the Creative Garden]( )
+
+
+![img](IMG2/garden1.JPEG)
+
+![img](IMG2/garden2.JPEG)
+
+![img](IMG2/garden3.JPEG)
+
+![img](IMG2/garden4.JPEG)
+
+![img](IMG2/garden5.JPEG)
 
 
 
-![img](img/cutout1.JPEG)
+
+
