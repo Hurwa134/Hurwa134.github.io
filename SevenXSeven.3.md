@@ -5,7 +5,7 @@
 Testing the function,look, and feel of visuals illustrating Day 3 guitar meditation/prayer. 
 Again trying to create "visual music", I used the theme that came to me during the meditation of "home." I was trying to express prayer/meditation as a way to access the feeling of being home, or the feeling of being at home in yourself.
 
-### How I Approached my Second Prototype
+### How I Approached my Third Prototype
 
 I did another guitar playing session as a prayer/meditation in a garden. I was feeling better and wanted to see how playing outside would effect the mood of the music. It was actually quite cold out, and my fingers got cold, and my guitar string broke - but I continued playing.
 
