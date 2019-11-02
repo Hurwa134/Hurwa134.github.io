@@ -15,6 +15,11 @@ I did another guitar playing session as a prayer/meditation in a garden. I was f
 
 ### Accompanying visuals, Day #3:
 
+[Day Three Visuals - Home in the Creative Garden]( )
+
+
+I edited all of the footage from the Garden to accompany the soundtrack I created there. I also added footage of myself putting on lipstick, to symbolize the personal aspect of action (playing guitar, making music) with the way that it makes me feel at home. In this way I was trying to create something of a self portrait. I used video effects to make it seem dreamy and surreal, and to give it a more psychedellic feel.
+
 When I was playing my mediation/prayer, I realized that I feel at home when I play guitar. My prayer was to feel at home, or the idea of being at home in myself. The idea for the visuals is to express that "home is where the heart is", and the sentiment of praying to feel at home in yourself and realizing you feel at home when you play music. To create a video of imagery to accompany the music, I shot footage of items in the garden and the scenery. 
 
 I realized to my surprise that there was a wooden house in the garden, it looked like a dollhouse.
@@ -35,7 +40,8 @@ When I edited the video of the guitar prayer session, I realized there was a cli
 
 ![img](IMG2/garden5.JPEG)
 
-[Day Three Visuals - Home in the Creative Garden]( )
+
+
 
 
 
