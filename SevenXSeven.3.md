@@ -15,7 +15,7 @@ I did another guitar playing session as a prayer/meditation in a garden. I was f
 
 ### Accompanying visuals, Day #3:
 
-[Day Three Visuals - Home in the Creative Garden](https://youtu.be/36SwEJCmWZI)
+[Day Three Visuals - Home in the Creative Garden](https://www.youtube.com/watch?v=36SwEJCmWZI&t=4s)
 
 
 I edited all of the footage from the Garden to accompany the soundtrack I created there. I also added footage of myself putting on lipstick, to symbolize the personal aspect of action (playing guitar, making music) with the way that it makes me feel at home. In this way I was trying to create something of a self portrait. I used video effects to make it seem dreamy and surreal, and to give it a more psychedellic feel.
