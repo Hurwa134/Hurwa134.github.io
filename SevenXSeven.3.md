@@ -15,7 +15,6 @@ I did another guitar playing session as a prayer/meditation in a garden. I was f
 
 ### Accompanying visuals, Day #3:
 
-
 Again trying to create "visual music", I used the theme that came to me during the meditation of "home" or "home is where the heart is" to create a video of imagery to accompany the music. I realized that there was a house in the garden, it looked like a dollhouse.
 
 I found that there were little houses made of wood, in the garden I was playing in. When I looked around me more closely, I realized that the garden was decorated with probably close to 100 small, decorative wooden birdhouses of different shapes, colors and sizes. I went around the garden with my camera filming them, and noticing other creative decor details like an old fashioned clock and sculptures. 
