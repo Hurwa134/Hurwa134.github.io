@@ -11,7 +11,7 @@ I did another guitar playing session as a prayer/meditation in a garden. I was f
 
 ### Musical Prayer #3
 
-[Day III Guitar Meditation Video](https://studio.youtube.com/video/tAODj0s2M4I)
+[Day III Guitar Meditation Video](https://www.youtube.com/watch?v=tAODj0s2M4I&t=5s)
 
 ### Accompanying visuals, Day #3:
 
