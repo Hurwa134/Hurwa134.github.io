@@ -50,17 +50,12 @@ I put it on a stand covered in mylar and put mylar around it on the walls, to tr
 
 I also filmed the paper cut outs of the angel wings and lotus flowers in the reflective "stage" area next to and in front of the conch shell statue.
 
-![img](IMG2/sclupt3.jpeg)
 
 ![img](IMG2/sculpt.jpeg)
 
-![img](IMG2/4.1.jpeg)
 
 ![img](IMG2/4.2.jpeg)
 
-![img](IMG2/4.3.jpeg)
-
-![img](IMG2/4.4.jpeg)
 
 
 
