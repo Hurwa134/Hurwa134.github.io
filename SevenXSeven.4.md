@@ -31,10 +31,6 @@ I would love to relate this to the idea of Gestalt, aesthetically - and in terms
 
 
 
-![img](IMG2/garden1.JPEG)
-
-
-
 
 
 
