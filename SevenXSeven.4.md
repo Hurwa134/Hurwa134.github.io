@@ -23,11 +23,19 @@ I would love to relate this to the idea of Gestalt, aesthetically - and in terms
 
 ### Musical Prayer #4
 
-[Day IV Guitar Meditation/Prayer](https://www.youtube.com/watch?v=XiXVou4XeRg)
+[Day IV Guitar Meditation/Prayer](https://youtu.be/XiXVou4XeRg)
 
 ### Accompanying visuals, Day #4:
 
 [Day IV Visuals]()
+
+My idea for this day is a sculpture, of a conch shell. THe conch shell represents sound and enlightenment in Buddhism.
+
+*Just as we find with fish symbolism, the conch shell is associated with water, thus the esoteric meaning of the conch shell bears some relations to creation. The spiral pattern at the tip of the conch shell represents the beginning of existence. In Aztec mythology, the Creator God Quetzalcoatl produces life by putting bees into the conch shell to make it sound. This is a reflection of vibration that creates the first wave of life.* 
+
+This relates to the power that I feel, the creativity, and the way that the vibration of music feels like it connects me to my spirit and life. 
+
+I would like to make a sculpture, and then project footage onto it. Images of water, and other buddhist images and spiritual images relating to creation, waves (sound waves and water), and calming imagery could be projected onto the sculpture, in addition to the music playing. 
 
 
 
