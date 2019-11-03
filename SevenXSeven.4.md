@@ -29,17 +29,38 @@ I would love to relate this to the idea of Gestalt, aesthetically - and in terms
 
 [Day IV Visuals]()
 
-My idea for this day is a sculpture, of a conch shell. THe conch shell represents sound and enlightenment in Buddhism.
+My idea for this day is a sculpture and include it in a theatre-like set design with shadows and the spiritual symbols cut out of paper from my day 2 prototype. I would like to make a sculpture, and then project recorded colorful footage and artwork onto it with a projetor while the music plays. 
+
+Images of water, and other buddhist images and spiritual images relating to creation, waves (sound waves and water), and calming imagery could be projected onto the sculpture. I like the idea of including shadows, mirrors, and light - so it's almost like a diaorama or a small theatre. 
+
+The conch shell is the symbol I chose for the sculpture because it represents sound, creation, and enlightenment in Buddhism.
 
 *Just as we find with fish symbolism, the conch shell is associated with water, thus the esoteric meaning of the conch shell bears some relations to creation. The spiral pattern at the tip of the conch shell represents the beginning of existence. In Aztec mythology, the Creator God Quetzalcoatl produces life by putting bees into the conch shell to make it sound. This is a reflection of vibration that creates the first wave of life.* 
 
 Source: [The Symbolic Meaning of the Conch Shell in Buddhism](https://mastermindcontent.co.uk/the-symbolic-meaning-of-the-conch-shell-in-buddhism/)
 
-This relates to the power that I feel, the creativity, and the way that the vibration of music feels like it connects me to my spirit and life. 
+This relates to the power that I feel, the creativity, and the way that the vibration of music feels like it connects me to my spirituality. The sound of the conch shell is supposed to make people "wake up" from their ignorance in Buddhist symbolism. When I play music I feel like I escape to another place, where I am not thinking about my worries and it's a relief. In this sense it's like "waking up" from conscious reality into a higher one where I am in the moment.
 
-I would like to make a sculpture, and then project footage onto it. Images of water, and other buddhist images and spiritual images relating to creation, waves (sound waves and water), and calming imagery could be projected onto the sculpture, in addition to the music playing. 
+I made a sculpture with sculpting clay, of a conch shell
 
 
+Then I painted it white and added glitter.
+
+I put it on a stand covered in mylar and put mylar around it on the walls, to try to create an infinity mirror effect. I used colored cellophane to cover the flashlight like a lense on a spotlight. I also discovered my flashlight has various strobe light effects while doing this prototype, and that made it more interesting visually. I tried to cast shadows onto the sculpture from my hands in the shape of the mudras as well as by holding the paper cut outs of spiritual symbols in front of the light (angel wings, lotus flowers.)
+
+I also filmed the paper cut outs of the angel wings and lotus flowers in the reflective "stage" area next to and in front of the conch shell statue.
+
+![img](IMG2/sclupt3.jpeg)
+
+![img](IMG2/sculpt.jpeg)
+
+![img](IMG2/4.1.jpeg)
+
+![img](IMG2/4.2.jpeg)
+
+![img](IMG2/4.3.jpeg)
+
+![img](IMG2/4.4.jpeg)
 
 
 
