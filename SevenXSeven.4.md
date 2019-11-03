@@ -57,9 +57,9 @@ I also filmed the paper cut outs of the angel wings and lotus flowers in the ref
 
 ![img](IMG2/p4.3.JPEG)
 
-![img](IMG2/p4.4.JPEG)
-
 ![img](IMG2/p4.5.JPEG)
+
+
 
 
 
