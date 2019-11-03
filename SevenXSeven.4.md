@@ -23,7 +23,7 @@ I would love to relate this to the idea of Gestalt, aesthetically - and in terms
 
 ### Musical Prayer #4
 
-[Day IV Guitar Meditation/Prayer](https://youtu.be/XiVou4XeRg)
+[Day IV Guitar Meditation/Prayer](https://www.youtube.com/watch?v=XiXVou4XeRg)
 
 ### Accompanying visuals, Day #4:
 
