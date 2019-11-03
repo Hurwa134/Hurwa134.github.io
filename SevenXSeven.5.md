@@ -15,3 +15,4 @@ I wanted to create a stained glass painting that looks like a stained glass mand
 I am not sure what the best way to make a big sheet of ice is so I started by trying to paint on ice cubes with acrylic paint. 
 
 ![img]( )
+
