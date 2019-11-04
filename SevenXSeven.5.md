@@ -10,7 +10,7 @@ I was feeling exhausted, and really unwell, and I didn't want to play guitar. I 
 
 ### Accompanying visuals, Day #5:
 
-[Day IV Visuals](https://youtu.be/StmA9qU5_50)
+[Day V Visuals](https://youtu.be/StmA9qU5_50)
 
 I wanted to create a prototype for how it would look/feel/function to paint what looks like stained glass and/or a mandala on a big sheet of ice. The ice will melt which represents impermanence and the ephemeral nature of music, and being in the moment.
 
