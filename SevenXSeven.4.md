@@ -27,7 +27,7 @@ I would love to relate this to the idea of Gestalt, aesthetically - and in terms
 
 ### Accompanying visuals, Day #4:
 
-[Day IV Visuals](https://drive.google.com/open?id=1-9F7-_Q4TXNA1rXYdPt9GIjbtl5lsooc)
+[Day IV Visuals](https://www.youtube.com/watch?v=TxeRrlUYf_s&t=7s)
 
 My idea for this day is a sculpture and include it in a theatre-like set design with shadows and the spiritual symbols cut out of paper from my day 2 prototype. I would like to make a sculpture, and then project recorded colorful footage and artwork onto it with a projetor while the music plays. 
 
