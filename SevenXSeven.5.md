@@ -18,7 +18,6 @@ I started by trying to paint on ice cubes with acrylic paint. It worked better t
 
 I used the flashlight and strobe light to capture the visuals of actually painting the ice as well. I think using light on the painted ice makes an interesting effect. 
 
-
 ![img](IMG2/ice.JPEG)
 
 ![img](IMG2/ice2.JPEG)
