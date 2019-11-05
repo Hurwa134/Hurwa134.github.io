@@ -16,6 +16,8 @@ What I thought about again was the concept of imperfect perfection, or Wabi-Sabi
 
 [Day VI Guitar Meditation/Prayer]( )
 
+I felt like I wanted to hum, or sing, because usually I always sing when I play - so this exercise has been different for me to only focus on playing.
+
 ### Accompanying visuals, Day #6:
 
 [Day VI Visuals]( )
