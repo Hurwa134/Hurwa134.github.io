@@ -80,7 +80,7 @@ We were also told that the project reminded someone else of the Seaglass Carouse
 
 -We created the experience and influence for kids of art and music.
 
-![img](img/p3.9.jpeg)
+![img](IMG2/p3.9.png)
 
 ## Future Ideas
 
