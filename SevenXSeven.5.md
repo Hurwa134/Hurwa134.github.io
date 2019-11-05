@@ -30,13 +30,10 @@ I used the flashlight and strobe light to capture the visuals of actually painti
 
 ![img](IMG2/icepaint2.JPEG)
 
-![img](IMG2/icepaint4.JPEG)
-
-![img](IMG2/icepaint5.JPEG)
-
 ![img](IMG2/melting.JPEG)
 
-![img](IMG2/melting2.JPEG)
+
+
 
 
 
