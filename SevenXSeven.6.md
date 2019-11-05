@@ -16,16 +16,17 @@ What I thought about again was the concept of imperfect perfection, or Wabi-Sabi
 
 ### Accompanying visuals, Day #6:
 
+
+[Day VI Visuals]( )
+
 I really like the idea of Wabi-Sabi/Kintsugi and gratitiude being themes for visuals. I was thinking I could create some kind of imagery that could be projected onto objects or sculpture to express this. 
 
 My first idea was a collage, or some kind of artwork, projected onto a sculpture. I think a collage expressing gratitude projected onto a sculpture that shows that it has been broken and put back together more beautifully, like a pheonix or a lotus, to show strength and perseverence could be really interesting.
 
 I have also been thinking about the snow lion, which represents fearless positivity in Buddhism. I would love to make a statue of a snow lion that shows the cracks filled with gold/like in Kintsugi art, or imperfection as in Wabi-Sabi philosophy. A projection of a collage of artwork that expresses gratitude could make the snow lion light up and have imagery projected on/around it. 
 
-[Day VI Visuals]( )
 
 
-![img](IMG2/  )
 
 
 
