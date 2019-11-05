@@ -68,7 +68,7 @@ We were also told that the project reminded someone else of the Seaglass Carouse
 
 ## Meaningfulness
 
-![img](img/p3.8.PNG)
+![img](img/p3.8.png)
 
 -Most people were unaware of the rich jazz history of the location and were excited to learn about the historical connection to the installation. 
 
@@ -80,7 +80,7 @@ We were also told that the project reminded someone else of the Seaglass Carouse
 
 -We created the experience and influence for kids of art and music.
 
-![img](img/p3.9.png)
+![img](img/p3.9.jpeg)
 
 ## Future Ideas
 
