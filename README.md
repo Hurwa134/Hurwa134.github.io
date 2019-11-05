@@ -31,7 +31,9 @@
 
 [Seven in Seven: Day V](SevenXSeven.5.md)
 
-[Seven in Seven: Day V](SevenXSeven.6.md)
+[Seven in Seven: Day VI](SevenXSeven.6.md)
 
-[Seven in Seven: Day V](SevenXSeven.7.md)
+[Seven in Seven: Day VII](SevenXSeven.7.md)
+
+
 
