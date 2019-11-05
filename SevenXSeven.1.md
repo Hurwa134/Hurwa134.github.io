@@ -16,7 +16,7 @@ I am definitely very inspired by the philosophy of Wabi-Sabi, or imperfect beaut
 
 ### Musical Prayer
 
-[Day One Guitar Meditation Video](https://vimeo.com/370009162)
+[Day One Guitar Meditation Video](https://www.youtube.com/watch?v=8tmpznXJXPo)
 
 ### Accompanying visuals:
 
