@@ -16,7 +16,7 @@ I started using my looping pedal. It is really comforting to play meleodies over
 [Day VII Guitar Meditation Video](https://youtu.be/CtOToLHSShc)
 
 
-### How I Approached my Third Prototype
+### How I Approached My Seventh Prototype
 
 The idea of a looping pedal, or playing tracks over eachother, and recording multiple tracks, makes me think of a mirror. Playing music tracks over one another, in a sense "jamming" with yourself, is like having a mirror to reflect back to you and play with. I don't know how I could illustrate this visually, but I'm thinking about a mirror and this idea. 
 
