@@ -22,7 +22,7 @@ The idea of a looping pedal, or playing tracks over eachother, and recording mul
 
 ### Accompanying visuals, Day #7:
 
-[Day Seven Visuals]( )
+[Day Seven Visuals](https://youtu.be/SeO59zus2pE)
 
 The idea of a looping pedal, or playing tracks over eachother, and recording multiple tracks, makes me think of a mirror. Playing music tracks over one another, in a sense "jamming" with yourself, is like having a mirror to reflect back to you and play with. I don't know how I could illustrate this visually, but I'm thinking about a mirror and this idea. 
 
@@ -36,5 +36,14 @@ Some of my favorite artists are gone from this world, but they are immortal in a
 
 I also thought about the idea of the Mobius strip, which is another symbol of eternal life or immortality. I'm not sure how I could include the mobius strip or other symbols of immortality, but maybe it could be projected, or incorporated somehow. I made a paper mobius strip as a prototype. I envision it as a floating sculpture, so it could be hung with "invisible" thread so that it looks like it's floating in the air, and then something could be projected onto it. The lotus could also hang from "invisible" thread, I think the vision of sculptures looking like they are "floating" and then having light shine colors on them with a strobe effect programmed to sync with the music could be really beautiful. I think it is possible to do this, at least rhythm-wise, through Ableton Live. I don't know how else I could incorproate the music but I like the idea of the voices of musicians that inspire me being incorporated to show how they "live on" through their music. 
 
-![img]() 
+I also read something really interesting that I would love to somehow incorporate. In Buddhism there is something called the "Rainbow Body", [Rainbow Body](http://www.kheper.net/topics/Buddhism/colors.html) When someone reaches the highest state of being, before death, they take on their rainbow body, or appear as white light (all of the colors.) This is said to happen to those who master zen practices when they die (there's more to it then that, but that's how I understand it.) Apparently, the "Rainbow Body Phenomenon" is also how a third person would view someone who reaches enlightenment, when they appear as a white light/rainbow body. They are said to exhibit lights around the fingers. Maybe I could shine lights on my fingers while I play guitar? I would love to incorporate this into my project somehow. 
+
+*Hence we find that ancient Buddhism thought placed much emphasis on the spiritual significance of colors, which naturally influenced the development and practice of Buddhist aesthetics.
+A further investigation into the five colors takes us to the Mahavairochana-Sutra, which states that a mandala, the quintessential symbol of Tibetan Buddhism should be painted in five colors. It further prescribes that one should start at the interior of the mandala with white and to be followed by red, yellow, blue and black.*
+
+There are also different colored "buddhas", like the Blue Buddha for healing, and White Tara, the female Buddha who is a Goddess of perfection. 
+
+
+
+
 
