@@ -43,7 +43,7 @@ A further investigation into the five colors takes us to the Mahavairochana-Sutr
 
 There are also different colored "buddhas", like the Blue Buddha for healing, and White Tara, the female Buddha who is a Goddess of perfection. 
 
-![img](Mobius.JPEG)
+![img](img/Mobius.JPEG)
 
 
 
