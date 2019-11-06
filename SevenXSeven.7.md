@@ -13,7 +13,7 @@ I started using my looping pedal. It is really comforting to play meleodies over
 
 ### Musical Prayer #7
 
-[Day III Guitar Meditation Video](https://youtu.be/CtOToLHSShc)
+[Day VII Guitar Meditation Video](https://youtu.be/CtOToLHSShc)
 
 
 ### How I Approached my Third Prototype
