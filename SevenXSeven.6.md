@@ -28,7 +28,12 @@ My first idea was a collage, or some kind of artwork, projected onto a sculpture
 
 I have also been thinking about the snow lion, which represents fearless positivity in Buddhism. I would love to make a statue of a snow lion that shows the cracks filled with gold/like in Kintsugi art, or imperfection as in Wabi-Sabi philosophy. A projection of a collage of artwork that expresses gratitude could make the snow lion light up and have imagery projected on/around it. 
 
+I made a prototype of a pyramid to represent the eternal, or the "attempt" at the eternal, through art and design, as in the the ancient Egyptian pyramids. On each of the three sides I made another small sculpture, like a relief. One represents the snow lion (fearlessness & positivity), one has the bodhi tree (salvation & hope), and one has the two golden fish which symbolize peace & harmony. I think it would be neat if the different colored lotus flowers could be somehow projected onto the sculpture. The different lotus flower colors represent different things in Buddhism: gold (enlightenment), purple (mysticism & spirituality), pink (the highest of spirituality, the Buddha's symbol), blue (victory of the spirit over the senses/wisdom), red (heart, love, compassion), white (purity of the mind, heart of the Buddha, the White Tara and her perfect nature.)
 
+White Tara is especially meaningful to me, so the white lotus is really important to my symbolically. 
+Maybe when you touch each side of the pyramid, a different track could play, i.e. three guitar tracks which sync up to make a song. When they are touched they appear or dissapear. It could represent harmony, and the individual importance of these different symbols/ideas, and how they are all connected. To emphasize Wabi-Sabi philosphy and Kinstugi (broken/reparied with gold, Japanese tradition of valuing things that have been broken and fixed as more beautiful), I made some "cracks" with god paint pen on the pyramid. 
+
+Maybe it would also work to make small sculptures of various symbols, or one sculpture of a lotus that is white, and then project the different colored lights onto it. 
 
 
 
