@@ -26,6 +26,14 @@ The idea of a looping pedal, or playing tracks over eachother, and recording mul
 
 The idea of a looping pedal, or playing tracks over eachother, and recording multiple tracks, makes me think of a mirror. Playing music tracks over one another, in a sense "jamming" with yourself, is like having a mirror to reflect back to you and play with. I don't know how I could illustrate this visually, but I'm thinking about a mirror and this idea. 
 
+The idea of incorporating loops (recorded loops, or playing with a looping pedal) and using mirrors (infinity mirror effects) and the mobius strip/lotus, and colors and light are all really interesting to me.
+
+I found this article about the Mobius strip, [The Ancient Symbol that Spanned Millenia](http://www.bbc.com/culture/story/20171204-the-ancient-symbol-that-spanned-millennia). 
+
+*The oldest-known ouroboros appeared on a golden shrine in the tomb of Tutankhamen – ‘King Tut’ – in Egypt in the 13th Century BC, after a brief lull in traditional religion brought about by his predecessor, Akhenaten. According to leading Egyptologist Jan Assmann, the symbol “refers to the mystery of cyclical time, which flows back into itself”. The ancient Egyptians understood time as a series of repetitive cycles, instead of something linear and constantly evolving; and central to this idea was the flooding of the Nile and the journey of the sun.* 
+
+The Ouroboros is the symbol of the dragaon eating its tail, which is representative of infinity and repetitive cylces. This is similar to the infinity represented by the Mobius strip. The Ouroboros ties in directly with music in the form of loops, and with the idea of the eternal or "immortality."
+
 
 Another idea using the lotus flower; a white sculpture of the lotus could have different colors projected onto it. The different lotus flower colors represent different things in Buddhism: gold (enlightenment), purple (mysticism & spirituality), pink (the highest of spirituality, the Buddha's symbol), blue (victory of the spirit over the senses/wisdom), red (heart, love, compassion), white (purity of the mind, heart of the Buddha, the White Tara and her perfect nature.) I made a lotus sculpture out of play-dough, I think it would be best if it were white, but the lightest color I have is yellow. I tried to use a colored transparent piece of cellophane like a colored lense over the flashlight to try to alter the color, but it still looked yellow. I also played with the strobe effect on the flashlight, so I think colors and strobe, using the light and colors to punctuate the music as in "visual music", like a choreographed expression of the music that I create would be really pretty and ethereal.
 
@@ -45,7 +53,7 @@ There are also different colored "buddhas", like the Blue Buddha for healing, an
 
 ![img](img/Mobius.JPEG)
 
-
+ 
 
 
 
