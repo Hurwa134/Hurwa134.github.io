@@ -35,8 +35,6 @@ I think it would be neat if the different colored lotus flowers could be somehow
 White Tara is especially meaningful to me, so the white lotus is really important to my symbolically. 
 Maybe when you touch each side of the pyramid, a different track could play, i.e. three guitar tracks which sync up to make a song. When they are touched they appear or dissapear. It could represent harmony, and the individual importance of these different symbols/ideas, and how they are all connected. To emphasize Wabi-Sabi philosphy and Kinstugi (broken/reparied with gold, Japanese tradition of valuing things that have been broken and fixed as more beautiful), I made some "cracks" with god paint pen on the pyramid. 
 
-Maybe it would also work to make small sculptures of various symbols, or one sculpture of a lotus that is white, and then project the different colored lights onto it. 
-
 
 
 
