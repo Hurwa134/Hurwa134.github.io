@@ -35,5 +35,7 @@
 
 [Seven in Seven: Day VII](SevenXSeven.7.md)
 
+# Final Project
 
+[Final Project: Visual Music Tarot](VisualMusicTarot.md)
 
