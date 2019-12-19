@@ -30,17 +30,6 @@ I also found a memorial to an theater artist/poet/sculptress in the garden and i
 
 When I edited the video of the guitar prayer session, I realized there was a clip where some people had come up to me and asked if they could listen to the music. I said sure, and somehow it came up that they were talking about the Catskills and Upstate NY. I let them know I am from Ithaca, NY and then said "home." The woman asked, "how far away is Ithaca?" I edited the video so that the question lingers unanswered, and then cuts to my playing guitar. When I play guitar, I feel at home. So, through the video editing I am trying to express that Ithaca (home) is only as far away as my guitar.
 
-![img](IMG2/garden1.JPEG)
-
-![img](IMG2/garden2.JPEG)
-
-![img](IMG2/garden3.JPEG)
-
-![img](IMG2/garden4.JPEG)
-
-![img](IMG2/garden5.JPEG)
-
-![img](IMG2/garden6.JPEG)
 
 
 
