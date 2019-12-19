@@ -40,8 +40,6 @@ Since I was thinking about my ancestors and relatives who I feel spiritually con
 
 ![img](img/cutout4.JPEG)
 
-![img](img/cutout5.JPEG)
-
 I think there are many symbols that represent spirituality, and the rituals of this holiday, Halloween, which could all be included but I thought a few simple shapes would be good to start to test the prototype idea. 
 
 I read about the concept of Visual Music [Heard of Visual Music?](https://www.wired.com/2011/05/visual-music-paul-prudence/) which is something that was coined by a historian discussing Kandinsky's paintings. I found an early female animator named Mary Ellen Bute, who coined a specific kind of Visual Music and created abstract films and animations to illustrate music visually. 
