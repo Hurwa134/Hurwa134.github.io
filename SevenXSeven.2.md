@@ -32,13 +32,6 @@ I found the symbol of the lotus flower, which represents purity, and spiritualit
 
 Since I was thinking about my ancestors and relatives who I feel spiritually connected to during my meditation, I drew angel wings to represent them and cut them out of paper as well. 
 
-![img](img/cutout1.JPEG)
-
-![img](img/cutout2.JPEG)
-
-![img](img/cutout3.JPEG)
-
-![img](img/cutout4.JPEG)
 
 I think there are many symbols that represent spirituality, and the rituals of this holiday, Halloween, which could all be included but I thought a few simple shapes would be good to start to test the prototype idea. 
 
