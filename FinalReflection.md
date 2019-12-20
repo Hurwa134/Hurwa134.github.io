@@ -33,3 +33,4 @@ Now my questions are more related to audiovisual productions and works of art wh
 
 This prototype provided me with the opportunity to make artistic connections between two fields of art which I am active and interested in: visual art and music/music production. This definitely feels like a rich and exciting future direction for me to continue to explore! I am very inspired to continue to work in this area and explore the ways that I can unite my creative skills in music, writing, and visual art. 
 
+
