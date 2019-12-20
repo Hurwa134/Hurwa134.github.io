@@ -85,11 +85,11 @@ I set out to create an illustrated book of imagery which would express some of t
 
 ![img](IMG2/GreenMoonTarot.png)
 
-*Green version (moon designs) of tarot cards*
+*Green (moon designs) of tarot cards*
 
 ![img](IMG2/RedSunTarot.png)
 
-*Red version (sun designs) of tarot cards*
+*Red (sun designs) of tarot cards*
 
 To create the animation effect, I did one design of each tarot card in red and one in green. The red design version included symbols of the sun and the green version included the moon. The back of the card features a lotus with either a sunset or moons, depending on the color of the light shown on it. Using Processing, I created code which transformed the laptop screen into a light source alternating between pure red and green, to illuminate the illustrations on the cards. This took multiple iterations, in order to get the light source colors and coding for this effect right in terms of color and speed. 
 
