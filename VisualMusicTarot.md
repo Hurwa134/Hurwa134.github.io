@@ -2,7 +2,11 @@
 
 ## Visual Music Tarot: Multi-Modal Artistic Expression
 
-![img](IMG2/TemperanceCard.Red.Green.png)
+![img](IMG2/coverphotofinal.PNG)
+
+### Final Project Video Demonstration
+
+[Final Project Video](https://youtu.be/aI0XV11hx7A)
 
 ### Research and Inspiration/Precedents 
 
@@ -114,10 +118,6 @@ The symbolic significance of the sun and the moon, is described by comparative r
 The music I ended up creating for the project is my cover of the song, The Suburbs by The Arcade Fire. I played, recorded, and produced the piece in Ableton. This song is about the concept of home and impermanence in many ways, and I think it ties in with the spiritual con-cepts I was seeking to highlight. I used a lot of delay in production to make the two guitars have a dreamy swirling quality which complements the magical, mystical experi-ence of a tarot reading. 
 
 The use of the tarot cards allows the listener to experience a different outcome and combination of cards every time they use them, which produces an ephemeral effect. Tarot allows the user to listen to their own inner wisdom and interpret the cards in their own way, which is similar to the way listeners experience and interpret music uniquely as individuals. The animated tarot cards create an inter-active visual music experience which incorporates divina-tion and light, to accompany the music listening experience. 
-
-### Final Project Video Demonstration
-
-[Final Project Video](https://youtu.be/aI0XV11hx7A)
 
 ### Conclusion
 
