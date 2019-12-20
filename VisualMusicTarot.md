@@ -105,12 +105,7 @@ To create the animation effect, I did one design of each tarot card in red and o
 
 *Green (moon) version of Ace of Wands card*
 
-Additionally, I drew multiple versions of designs and had to print out various designs and test them to make sure that they were fully illuminated by the light source. I had to adjust the colors I was illustrating with multiple times to achieve pure RGB colors, so that the animation effect would work correctly. 
-
- INSERT IMAGES OF FIRST DRAWINGS OF CARDS HERE
-
-
-The symbolic significance of the sun and the moon, is described by comparative religion and mythology scholar Joseph Campbell:
+Additionally, I drew multiple versions of designs and had to print out various designs and test them to make sure that they were fully illuminated by the light source. I had to adjust the colors I was illustrating with multiple times to achieve pure RGB colors, so that the animation effect would work correctly. The symbolic significance of the sun and the moon, is described by comparative religion and mythology scholar Joseph Campbell:
 
   *“the shift of the order of your consciousness from identification with the reflected light in the moon, to iden-tification with the solar orb—this is the moment when you are in full consciousness and you can ask yourself—Who am I? Am I this body which is the vehicle of the con-sciousness, or am I consciousness? This is the theme of all the mystery cults. This is the theme of all the great high myths of vision and realization.”*
 
