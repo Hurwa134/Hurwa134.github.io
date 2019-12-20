@@ -97,7 +97,6 @@ To create the animation effect, I did one design of each tarot card in red and o
 
 *Red (sun) version of Ace of Wands card*
 
-
 ![img](IMG2/greenwand.JPEG)
 
 *Green (moon) version of Ace of Wands card*
