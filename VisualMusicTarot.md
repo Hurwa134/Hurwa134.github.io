@@ -112,6 +112,8 @@ The music I ended up creating for the project is my cover of the song, The Subur
 
 The use of the tarot cards allows the listener to experience a different outcome and combination of cards every time they use them, which produces an ephemeral effect. Tarot allows the user to listen to their own inner wisdom and interpret the cards in their own way, which is similar to the way listeners experience and interpret music uniquely as individuals. The animated tarot cards create an inter-active visual music experience which incorporates divina-tion and light, to accompany the music listening experience. 
 
+### Final Project Video Demonstration
+
 [Final Project Video](https://youtu.be/aI0XV11hx7A)
 
 ### Conclusion
