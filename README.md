@@ -39,3 +39,7 @@
 
 [Final Project: Visual Music Tarot](VisualMusicTarot.md)
 
+# Final Reflection 
+
+[Final Project: Reflection](FinalReflection.md)
+
