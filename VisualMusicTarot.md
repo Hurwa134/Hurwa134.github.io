@@ -72,6 +72,8 @@ For the Seven-in-Seven project, I attempted to answer this question from a perso
 
 ![img](IMG2/MindMap.JPEG)
 
+*Mindmap brainstorming exercise*
+
 This led me to create an interactive experience for a music listener, which would entail a multi-modal (audio/visual) experience. I set out with the idea of an illustrated book of spiritual symbols which could be flipped through while listening, as an accompaniment to the music. After first creating a booklet, it felt like too constrained a form. I finally settled on creating tarot cards, to use as a divination tool while listening to the music. This form felt less constrained and more free. The divination tool of tarot cards tied in more directly to the conceptual theme of spir-ituality. I aimed to engage multiple senses and to create an accompanying visual art experience to complement a piece of music to be enjoyed in tandem by a listener. The idea of delivering an artistic visual experience via the canvas of album art or album packaging, to complement music, is what I had in mind. 
 
 In the words of neuroscientist Dr. Jay Lombard in his book, *The Mind of God,*
