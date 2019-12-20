@@ -84,9 +84,11 @@ In the words of neuroscientist Dr. Jay Lombard in his book, *The Mind of God,*
 I set out to create an illustrated book of imagery which would express some of the spiritual symbolism which I envisioned during my meditative guitar sessions, in order to deliver a multi-modal (audio/visual) experience. Initially these symbols were going to be more abstract or undefined shapes. When I changed to tarot cards as a form, it felt more appropriate to choose cards related to my experience of playing guitar as a meditation/prayer. I selected six cards to illustrate which related to concepts like balance, practice, inspiration, love, and excitement – all feelings I experience related to music. I illustrated the tarot cards: The World, The Hermit, The Star, Temperance, The Ace of Wands, and the Knight of Cups. 
 
 ![img](IMG2/GreenMoonTarot.png)
+
 *Green version (moon designs) of tarot cards*
 
 ![img](IMG2/RedSunTarot.png)
+
 *Red version (sun designs) of tarot cards*
 
 To create the animation effect, I did one design of each tarot card in red and one in green. The red design version included symbols of the sun and the green version included the moon. The back of the card features a lotus with either a sunset or moons, depending on the color of the light shown on it. Using Processing, I created code which transformed the laptop screen into a light source alternating between pure red and green, to illuminate the illustrations on the cards. This took multiple iterations, in order to get the light source colors and coding for this effect right in terms of color and speed. 
