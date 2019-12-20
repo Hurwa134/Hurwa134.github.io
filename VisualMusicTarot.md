@@ -109,6 +109,23 @@ Additionally, I drew multiple versions of designs and had to print out various d
 
   *“the shift of the order of your consciousness from identification with the reflected light in the moon, to iden-tification with the solar orb—this is the moment when you are in full consciousness and you can ask yourself—Who am I? Am I this body which is the vehicle of the con-sciousness, or am I consciousness? This is the theme of all the mystery cults. This is the theme of all the great high myths of vision and realization.”*
 
+Below are some examples of the early tarot card designs:
+
+![img](IMG2/first.tarot.1.png)
+
+![img](IMG2/first.tarot.2.png)
+
+![img](IMG2/first.tarot.3.png)
+
+![img](IMG2/first.tarot.4.png)
+
+![img](IMG2/first.tarot.5.png)
+
+![img](IMG2/first.tarot.6.png)
+
+![img](IMG2/first.tarot.7.png)
+
+![img](IMG2/first.tarot.8.png)
 
 The music I ended up creating for the project is my cover of the song, The Suburbs by The Arcade Fire. I played, recorded, and produced the piece in Ableton. This song is about the concept of home and impermanence in many ways, and I think it ties in with the spiritual con-cepts I was seeking to highlight. I used a lot of delay in production to make the two guitars have a dreamy swirling quality which complements the magical, mystical experi-ence of a tarot reading. 
 
