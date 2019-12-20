@@ -93,11 +93,13 @@ I set out to create an illustrated book of imagery which would express some of t
 
 To create the animation effect, I did one design of each tarot card in red and one in green. The red design version included symbols of the sun and the green version included the moon. The back of the card features a lotus with either a sunset or moons, depending on the color of the light shown on it. Using Processing, I created code which transformed the laptop screen into a light source alternating between pure red and green, to illuminate the illustrations on the cards. This took multiple iterations, in order to get the light source colors and coding for this effect right in terms of color and speed. 
 
-![img](IMG2/RedWand.JPEG)
+![img](IMG2/redwand.JPEG)
+
 *Red (sun) version of Ace of Wands card*
 
 
 ![img](IMG2/greenwand.JPEG)
+
 *Green (moon) version of Ace of Wands card*
 
 Additionally, I drew multiple versions of designs and had to print out various designs and test them to make sure that they were fully illuminated by the light source. I had to adjust the colors I was illustrating with multiple times to achieve pure RGB colors, so that the animation effect would work correctly. 
